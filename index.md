@@ -7,25 +7,23 @@ image:
 
 <div class="tiles">
 
-<div class="tile">
+<div class="tile" style="width: 47%">
   <h2 class="post-title">Naše mise</h2>
   <p class="post-excerpt">Najít projekty které využívají pečlivou <em>analýzu</em> k tomu aby pomohly ostatním <em>nejvíce</em>.</p>
 </div><!-- /.tile -->
 
-<div class="tile">
+<div class="tile" style="width: 47%">
   <h2 class="post-title">Nejen srdce ale rozum</h2>
   <p class="post-excerpt">Dáváme velmi silný důraz na to najít jen nejlepší z nejlepších způsobů pomoci. Vše podloženo tvrdými daty.</p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title">Jak zjistit více</h2>
-  <p class="post-excerpt">Přečtěte si <a href="http://efektivnialtruismus.cz/o-ea">rychlý úvod</a> do problematiky. Nebo rovnou jděte na <a href="http://efektivnialtruismus.cz/zdroje">podrobné články</a>.</p>
-</div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title">Pomozte</h2>
-  <p class="post-excerpt">Podívejte se na <a href="http://efektivnialtruismus.cz/jak-pomoci">seznam</a> způsobů jak můžete pomoci.</p>
-</div><!-- /.tile -->
+<!--
+-->
+
+</div><!-- /.tiles -->
+
+<div style="clear: both;"></div>
 
 **Kdy**: 10.-11. prosince 2016
 
@@ -57,4 +55,15 @@ Catering zajištěn!
 Pak nás neváhejte kontaktovat na našem [emailu](mailto:efektivnialtruismus@gmail.com)
 nebo na [Facebooku](https://www.facebook.com/groups/efektivnialtruismuscz/505083673035289/).
 
-</div><!-- /.tiles -->
+
+
+<div class="tiles">
+<div class="tile" style="width: 47%">
+  <h2 class="post-title">Jak zjistit více</h2>
+  <p class="post-excerpt">Přečtěte si <a href="http://efektivnialtruismus.cz/o-ea">rychlý úvod</a> do problematiky. Nebo rovnou jděte na <a href="http://efektivnialtruismus.cz/zdroje">podrobné články</a>.</p>
+</div><!-- /.tile -->
+<div class="tile" style="width: 47%">
+  <h2 class="post-title">Pomozte</h2>
+  <p class="post-excerpt">Podívejte se na <a href="http://efektivnialtruismus.cz/jak-pomoci">seznam</a> způsobů jak můžete pomoci.</p>
+</div>
+</div>
