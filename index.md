@@ -25,7 +25,7 @@ image:
 
 <div style="clear: both;"></div>
 
-**Kdy**: 10.-11. prosince 2016
+**Kdy**: 10. prosince 2016
 
 **Kde**: [Paralelní polis](https://www.paralelnipolis.cz/)
 
