@@ -17,10 +17,6 @@ image:
   <p class="post-excerpt">Dáváme velmi silný důraz na to najít jen nejlepší z nejlepších způsobů pomoci. Vše podloženo tvrdými daty.</p>
 </div><!-- /.tile -->
 
-
-<!--
--->
-
 </div><!-- /.tiles -->
 
 <div style="clear: both;"></div>
@@ -36,8 +32,6 @@ zároveň si u toho užívat života.
 **Přijďte zjistit jak na první oficiální konferenci o Efektivním altruismu v ČR
 do Prahy 10. prosince 2016!**
 
-Registrace bude otevřena již brzy.
-
 # Program
 
 Bude probíhat konference s řečníky, kteří k tématu mají rozhodně co říci.
@@ -50,12 +44,29 @@ tématu opravdu co říci!
 
 Catering zajištěn!
 
+# Registrace
+
+Registrace bude spuštěna již brzy.
+
+Máte-li o konferenci zájem, můžete nám zatím napsat na
+[prague@eaglobalx.com](mailto:prague@eaglobalx.org) a ozveme se Vám jakmile
+bude spuštěna.
+
 # Máte otázku?
 
-Pak nás neváhejte kontaktovat na našem [emailu](mailto:efektivnialtruismus@gmail.com)
+Pak nás neváhejte kontaktovat na našem [emailu](mailto:prague@eaglobalx.com)
 nebo na [Facebooku](https://www.facebook.com/groups/efektivnialtruismuscz/505083673035289/).
 
+# Cíle
 
+Cílem naší konference je informovat českou veřejnost o způsobech, jak můžeme
+svou činností mít *pozitivní dopad na svět*, a jak takovou činnost provozovat
+*efektivně*, tedy jak za co nejmenší náklady dosáhnout co nejlepších
+výsledků. Zlepšování světa co nejefektivnějším způsobem: to je
+*efektivní altruismus*.
+
+Konferencí EAGxPrague 2016 se snažíme oslovit každého, kdo chce vést svůj život
+prospěšným způsobem.
 
 <div class="tiles">
 <div class="tile" style="width: 47%">
