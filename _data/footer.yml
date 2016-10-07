@@ -1,4 +1,6 @@
 # Footer navigation links
 
-- title: Domů
+- title: Česky
   url: /
+- title: English
+  url: /english.html

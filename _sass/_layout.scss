@@ -276,6 +276,20 @@
 			@include font-size(32);
 		}
 	}
+	h3 {
+		a {
+			color: #eee;
+		}
+		margin-top: 0;
+		margin-bottom: 0;
+		@include font-size(16);
+		@include media($medium) {
+			@include font-size(20);
+		}
+		@include media($large) {
+			@include font-size(28);
+		}
+	}
 }
 // page header
 .page-feature {
