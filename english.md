@@ -65,6 +65,6 @@ our actions in an *effective* manner. In other words: how to accomplish
 Making the world as good as possible as effectively as possible: that
 is *effective altruism*.
 
-We hope to reach use the EAGxPrague 2016 conference to reach everyone, who
+We hope to use the EAGxPrague 2016 conference to reach everyone who
 wants to benefit others in their life.
 
