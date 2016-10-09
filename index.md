@@ -71,10 +71,10 @@ prospěšným způsobem.
 <div class="tiles">
 <div class="tile" style="width: 47%">
   <h2 class="post-title">Jak zjistit více</h2>
-  <p class="post-excerpt">Přečtěte si <a href="http://efektivnialtruismus.cz/o-ea">rychlý úvod</a> do problematiky. Nebo rovnou jděte na <a href="http://efektivnialtruismus.cz/zdroje">podrobné články</a>.</p>
+  <p class="post-excerpt">Přečtěte si <a href="http://efektivni-altruismus.cz/o-ea">rychlý úvod</a> do problematiky. Nebo rovnou jděte na <a href="http://efektivni-altruismus.cz/zdroje">podrobné články</a>.</p>
 </div><!-- /.tile -->
 <div class="tile" style="width: 47%">
   <h2 class="post-title">Pomozte</h2>
-  <p class="post-excerpt">Podívejte se na <a href="http://efektivnialtruismus.cz/jak-pomoci">seznam</a> způsobů jak můžete pomoci.</p>
+  <p class="post-excerpt">Podívejte se na <a href="http://efektivni-altruismus.cz/jak-pomoci">seznam</a> způsobů jak můžete pomoci.</p>
 </div>
 </div>
