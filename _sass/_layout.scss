@@ -31,7 +31,6 @@
 	font-weight: 700;
 	@include font-size(20,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
-	text-transform: uppercase;
 	padding-top: 0px;
 	background-image: url("../images/logo-header.png");
 	background-repeat: no-repeat;
