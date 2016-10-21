@@ -23,7 +23,7 @@ image:
 
 **When**: December 10, 2016
 
-**Where**: [Paralelní polis](https://www.paralelnipolis.cz/)
+**Where**: [Paralelní Polis](https://www.paralelnipolis.cz/)
 
 Did you know that right now you can fight the biggest problems of our world?
 With a simple strategy and good reasoning, you can help millions of

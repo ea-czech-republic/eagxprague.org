@@ -23,7 +23,7 @@ image:
 
 **Kdy**: 10. prosince 2016
 
-**Kde**: [Paralelní polis](https://www.paralelnipolis.cz/)
+**Kde**: [Paralelní Polis](https://www.paralelnipolis.cz/)
 
 Víte, že právě teď se můžete zkusit poprat s těmi největšími problémy našeho
 světa? S jednoduchou strategií a dobrým úsudkem můžete pomoci milionům jiných a
