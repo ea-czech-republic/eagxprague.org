@@ -158,6 +158,21 @@ výsledků. Zlepšování světa co nejefektivnějším způsobem: to je
 Konferencí EAGxPrague 2016 se snažíme oslovit každého, kdo chce vést svůj život
 prospěšným způsobem.
 
+
+# Kdo nás podporuje
+
+Momentálně nemáme žádného sponzora a konference je plně hrazena ze soukromých prostředků organizátorů. O sponzory ale máme samozřejmě zájem. 
+
+<div class="speaker"> <!--TODO: predelat na vlastni tridu, zatim ukradeno od speakeru -->
+<a href="https://www.paralelnipolis.cz/"><img src="images/paralelnipolis.jpg"
+	style="width: 180px;" ></a>  
+<p>
+Velký dík patří projektu <a href="https://www.paralelnipolis.cz/">Paralelní Polis</a>. Ten nám poskytuje prostory a technické vybavení za sníženou cenu. 
+</p>
+</div>
+
+
+<hr>
 <div class="tiles">
 <div class="tile" style="width: 47%">
   <h2 class="post-title">Jak zjistit více</h2>

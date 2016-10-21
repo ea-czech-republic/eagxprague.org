@@ -68,3 +68,16 @@ is *effective altruism*.
 We hope to use the EAGxPrague 2016 conference to reach everyone who
 wants to benefit others in their life.
 
+# Our supporters
+
+Currently, we don't have any sponsors and the conference is funded by personal resources of the organisers. But we are constantly searching for them. Could you been one of them?  
+
+<div class="speaker"> <!--TODO: predelat na vlastni tridu, zatim ukradeno od speakeru -->
+<a href="https://www.paralelnipolis.cz/"><img src="images/paralelnipolis.jpg"
+	style="width: 180px;" ></a>  
+<p>
+Great thanks belongs to an organization <a href="https://www.paralelnipolis.cz/">Paralelní Polis</a>. They provide us with spaces for very reasonable price.  
+</p>
+</div>
+
+
