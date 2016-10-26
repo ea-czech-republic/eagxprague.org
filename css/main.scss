@@ -13,13 +13,6 @@ my customization
     height: auto;
 }
 
-/*.inner-wrap
-{
-
-    height: 50px
-}*/
-
-
 /*
  *
  *  Skinny Bones Jekyll Starter
@@ -81,4 +74,12 @@ div.speaker {
 	@include outer-container;
 	img { @include span-columns(3); }
 	p { @include span-columns(9); }
+}
+
+#primary-reg-button {
+	font-size: 1.6em;
+	/* TODO: font */
+	/* font-family: $base-font; */
+	border: 2px solid green;
+	font-variant: small-caps;
 }
