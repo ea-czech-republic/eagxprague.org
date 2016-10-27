@@ -49,10 +49,10 @@ do Prahy 10. prosince 2016!**
 	<p>
 	S problematikou <b>výběru a implementace efektivních intervencí pro pomoc
 	nejpotřebnějším</b> nás seznámí
-	<i>Alix Zwane</i>, expert na veřejné zdraví a CEO Global Innovation Fund, <!-- TODO link -->
+	<i>Alix Zwane</i>, expert na veřejné zdraví a CEO <a href="http://www.globalinnovation.fund/">Global Innovation Fund</a>,
 	fondu investujícího do sociálního podnikání s cílem zlepšit životy a
 	příležitosti milionů lidí v rozvojovém světě. V minulosti pracovala jako
-	výkonná ředitelka Evidence Action <!-- TODO link --> a jako Senior Program
+	výkonná ředitelka <a href="http://www.evidenceaction.org/">Evidence Action</a> a jako Senior Program
 	Officer ve skupině pro globální rozvoj v Nadaci Billa a Melindy Gates,
 	kde vedla vývoj strategií pro tým Water, Sanitation, and Hygiene.
 	</p>
@@ -71,7 +71,7 @@ do Prahy 10. prosince 2016!**
 	<img src="images/speakers/johannes-treutlein.jpg"
 		style="width: 180;" >
 	<p>
-	<i>Johannes Treutlein</i> je odpovědný za růst Sentience Politics, <!-- TODO link na sentience politics -->
+	<i>Johannes Treutlein</i> je odpovědný za růst <a href="https://sentience-politics.org/">Sentience Politics</a>,
 	organizace, jejímž cílem je snižování utrpení všech rozumných bytostí.
 	Kromě toho pracuje na komunikaci a šíření myšlenky Efektivního Altruismu
 	mezi ochránci zvířat. Ve své přednášce bude mluvit o <b>pozitivních a negativních
