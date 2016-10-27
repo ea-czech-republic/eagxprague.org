@@ -5,12 +5,13 @@ $(document).ready(function(){
 });
 
 $(function(){
-	$('.your-class').slick({
+	$('.theme-carousel').slick({
 	  dots: true,
 	  autoplay: true,
-	  autoplaySpeed: 4000,
+	  autoplaySpeed: 6000,
 	  easing: 'swing',
 	  pauseOnDotsHover: true,
+	pauseOnHover: true,
 	  fade: true,
 	  arrows: true,
   });

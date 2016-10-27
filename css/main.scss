@@ -83,3 +83,60 @@ div.speaker {
 	border: 2px solid green;
 	font-variant: small-caps;
 }
+
+section#intro {
+	font-size: 1.5em;
+}
+
+#theme-ea, #theme-development-aid,
+		#theme-future, #theme-career, #theme-rationality {
+	display: block;
+	height: 250px;
+	position: relative;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-top: 1em;
+	h3 {
+		span {
+			padding: 0.5em;
+			background: rgba(255, 255, 255, 0.8);
+		}
+	}
+	p {
+		padding: 0.5em;
+		position: absolute;
+		margin-right: 2em;
+		bottom: 0;
+		left: 2em; /* TODO: why? */
+		background: rgba(255, 255, 255, 0.8);
+	}
+}
+
+#theme-ea {
+	background: url('/images/marble.jpg');
+	background-position: top center;
+	background-size: 100% auto;
+}
+
+#theme-development-aid {
+	background: url('/images/nets.jpg');
+	background-size: 100% auto;
+}
+
+#theme-future {
+	background: url('/images/tech.jpg');
+	background-position: top center;
+	background-size: 100% auto;
+}
+
+#theme-career {
+	background: url('/images/work.jpeg');
+	background-position: center center;
+	background-size: 100% auto;
+}
+
+#theme-rationality {
+	background: url('/images/babbage.png');
+	background-position: center center;
+	background-size: 100% auto;
+}
