@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: background.jpg
+  feature: background2.jpg
 ---
 
 

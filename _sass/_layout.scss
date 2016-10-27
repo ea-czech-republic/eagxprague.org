@@ -244,7 +244,7 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
-	color: $white;
+	color: $black;
 	@include media($large) {
 		background-size: cover;
 	}
@@ -277,7 +277,7 @@
 	}
 	h3 {
 		a {
-			color: #eee;
+			color: $black;
 		}
 		margin-top: 0;
 		margin-bottom: 0;
