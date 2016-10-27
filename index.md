@@ -5,6 +5,7 @@ image:
   feature: background.jpg
 ---
 
+
 <div class="tiles">
 
 <div class="tile" style="width: 47%">
@@ -32,7 +33,84 @@ zároveň si u toho užívat života.
 **Přijďte zjistit jak na první oficiální konferenci o Efektivním altruismu v ČR
 do Prahy 10. prosince 2016!**
 
+
+<div class="your-class">
+  <div>
+	<h3>Efektivní pomoc nejpotřebnějším</h3>
+
+	Jeden z největších a nejznámějších globálních problémů je chudoba.
+	Miliardy obyvatel rozvojových zemí jsou stíhány nebezpečnými nemocemi, nízkou
+	ekonomickou produktivitou a systematickým znečišťováním životního prostředí.
+
+	<!-- TODO: nicer and mobile styling -->
+	<div class="speaker">
+	<img src="images/speakers/alix-zwane.jpg"
+		style="width: 180px;">
+	<p>
+	S problematikou <b>výběru a implementace efektivních intervencí pro pomoc
+	nejpotřebnějším</b> nás seznámí
+	<i>Alix Zwane</i>, expert na veřejné zdraví a CEO Global Innovation Fund, <!-- TODO link -->
+	fondu investujícího do sociálního podnikání s cílem zlepšit životy a
+	příležitosti milionů lidí v rozvojovém světě. V minulosti pracovala jako
+	výkonná ředitelka Evidence Action <!-- TODO link --> a jako Senior Program
+	Officer ve skupině pro globální rozvoj v Nadaci Billa a Melindy Gates,
+	kde vedla vývoj strategií pro tým Water, Sanitation, and Hygiene.
+	</p>
+	</div>
+  </div>
+  <div>
+	<h3>Budoucnost lidstva: příležitosti a nebezpečí</h3>
+
+	Svět dnes prochází nebývalou periodou zrychlujícího se technologického
+	a ekonomického pokroku. Povede současný vývoj k rozkvětu civilizace a krásné
+	budoucnosti, nebo k přelidnění, destruktivním změnám klimatu, nebo dokonce
+	k jaderné válce?
+
+	<!-- TODO: grid -->
+	<div class="speaker">
+	<img src="images/speakers/johannes-treutlein.jpg"
+		style="width: 180;" >
+	<p>
+	<i>Johannes Treutlein</i> je odpovědný za růst Sentience Politics, <!-- TODO link na sentience politics -->
+	organizace, jejímž cílem je snižování utrpení všech rozumných bytostí.
+	Kromě toho pracuje na komunikaci a šíření myšlenky Efektivního Altruismu
+	mezi ochránci zvířat. Ve své přednášce bude mluvit o <b>pozitivních a negativních
+	scénářích naší budoucnosti</b> a <b>jak můžeme dnes zlepšovat šanci, aby
+	naše společná budoucnost byla co nejlepší</b>.
+	</p>
+	</div>
+  </div>
+  <div>
+	<h3>Výběr kariéry</h3> <!-- TODO: "socialne prospesne" nebo neco? -->
+
+	Ohromnou část svého života trávíme v práci. Kvůli tomu je výběr naší
+	kariéry nebývale důležité rozhodnutí. Na příkladech jako Bill Gates se dá
+	ukázat, že zvolíme-li si tu správnou práci, můžeme skrz ni zlepšit nebo
+	zachránit mnoho lidských životů.
+	Ale jak si vybrat? Měla bych se stát lékařkou, nebo bych se mohla stát
+	podnikatelkou a svým výdělkem financovat tři jiné lékaře?
+
+	<div class="speaker">
+	<img src="images/speakers/david-goldberg.jpg"
+		style="width: 180px;" >
+	<p>
+	Výběr kariéry je velmi důležité rozhodnutí, které je snadné učinit bez tak
+	opatrného výběru a přemýšlení, jaké by si rozhodnutí takové velikosti
+	zasloužilo. Strategiemi pro <b>výběr kariéry, kterou pomůžeme ostatním</b>,
+	nás provede <i>David Goldberg</i>.
+	David osobně změnil svou kariéru: skončil studium v PhD programu, kterým by,
+	jak usoudil, měl pouze malý pozitivní vliv na svět. Založil organizaci Founders
+	Forum for Good, jejíž program <i>Founder's Pledge</i> přesvědčuje zakladatele
+	budoucích úspěšných startupů, aby věnovali 2% svých budoucích výdělků na
+	efektivní charitu. Ke květnu 2016 bylo přes tento program přislíbeno již
+	<i>134 milionů dolarů</i>.
+	</p>
+</div>
+  </div>
+</div>
+
 # Program
+
 
 Bude probíhat konference s řečníky, kteří k tématu mají rozhodně co říci.
 Kromě toho budou probíhat i neformální diskuze, kterými si přejeme vytvořit
@@ -107,8 +185,8 @@ efektivní charitu. Ke květnu 2016 bylo přes tento program přislíbeno již
 </p>
 </div>
 
-<!--
 
+<!--
 ## Proč inteligentní lidé často dělají špatná rozhodnutí?
 
 <div class="speaker">
