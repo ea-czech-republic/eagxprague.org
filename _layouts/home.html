@@ -33,8 +33,35 @@
   </head>
 
   <body>
-    {% include header.html %}
-    {% include navigation-sliding.html %}
+	<header id="masthead2">
+	  <div class="inner-wrap">
+	    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <nav role="navigation" class="menu top-menu">
+<ul class="menu-item">
+	<li class="home"><a href="/">{{ site.title }}</a></li>
+
+	<li><a href="#TODO" class="prihlaska-top"><span class="btn btn-success">Přihláška</span></a></li>
+	<li><a href="{{ domain }}/#program">Program</a></li>
+	<li><a href="{{ domain }}/english.html">English</a></li>
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+
+	<header id="masthead">
+	  <div class="inner-wrap">
+	    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <nav role="navigation" class="menu top-menu">
+<ul class="menu-item">
+	<li class="home"><a href="/">{{ site.title }}</a></li>
+
+	<li><a href="#TODO" class="prihlaska-top"><span class="btn btn-success">Přihláška</span></a></li>
+	<li><a href="{{ domain }}/#program">Program</a></li>
+	<li><a href="{{ domain }}/english.html">English</a></li>
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
 
     {% if page.image.feature %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
@@ -46,10 +73,6 @@
 
 	<h3><a class="btn btn-success" id="primary-reg-button"
 				href="#reg">Přihláška</a></h3>
-	<!--
-	<h3><i><span style="font-weight: normal;">Registrace:</span> bude
-			spuštěna brzy</i></h3>
-		-->
         <!-- <a href="http://efektivni-altruismus.cz/o-ea/" class="btn-inverse">Více informací</a> -->
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
@@ -72,6 +95,18 @@ Lorem ipsum dolor sit amet.
 Zde bude několik vět dlouhá copy o tom, jak je EA super a proč je úžasné se
 konference zúčastnit. Díky našemu postavení má každý z nás dnes jedinečnou
 příležitost pomoci mnoha ostatním. A to je <i>efektivní altruismus</i>.
+
+Přijďte zjistit jak na první konferenci o Efektivním altruismu v ČR
+do Prahy 10. prosince 2016!
+
+Cílem naší konference je informovat českou veřejnost o způsobech, jak můžeme
+svou činností mít *pozitivní dopad na svět*, a jak takovou činnost provozovat
+*efektivně*, tedy jak za co nejmenší náklady dosáhnout co nejlepších
+výsledků. Zlepšování světa co nejefektivnějším způsobem: to je
+*efektivní altruismus*.
+
+Konferencí EAGxPrague 2016 se snažíme oslovit každého, kdo chce vést svůj život
+prospěšným způsobem.
 </section>
 
 	<section id="themes">

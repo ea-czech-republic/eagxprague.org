@@ -70,10 +70,11 @@ my customization
 
 @import "layout";
 
-div.speaker {
+div.speaker, div.sponsor {
 	@include outer-container;
 	img { @include span-columns(3); }
 	p { @include span-columns(9); }
+	div.desc { @include span-columns(9); }
 }
 
 #primary-reg-button {
@@ -139,4 +140,19 @@ section#intro {
 	background: url('/images/babbage.png');
 	background-position: center center;
 	background-size: 100% auto;
+}
+
+dl {
+	dt {
+		margin: 1em 0;
+		font-weight: bold;
+	}
+	font-size: 1.2em;
+	a {
+		border-bottom: 1px dotted black;
+	}
+}
+.menu li a.prihlaska-top:after {
+	/*border-top: 0;*/
+	width: 0 !important;
 }

@@ -7,6 +7,13 @@
    ========================================================================== */
 
 #masthead {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+#masthead, #masthead2 {
 	padding: $gutter;
 	z-index: 5;
 	@include transform(translate(0,0));
@@ -96,7 +103,7 @@
 /* Top menu navigation */
 
 .top-menu {
-	display: none;
+	/*display: none;*/
 	position: relative;
 	@include media($medium) {
 		@include span-columns(12);
