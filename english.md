@@ -98,7 +98,7 @@ In their talk, they will present their vision and approaches, how students can h
 
 <i>Ollie Base</i> is a third year Philosophy with Psychology student, currently studying in Cologne, Germany. Last year, he was president of Effective Altruism Society Warwick and is currently founding a chapter in Cologne. Ollie was on the team which compiled the SHIC curriculum and continues to volunteer remotely on the subject
 
-<i>Nikita Patel</i> Nikita Patel recently graduated from the University of Oxford with a BA French and German and used to work as an intern at Giving What We Can. She taught in Austria for a year, before setting up education initiatives for Syrian refugees and for disadvantaged school pupils in Kampala. Currently, she works in <a href="http://www.malariaconsortium.org/">Malaria Consortium</a>.
+<i>Nikita Patel</i> recently graduated from the University of Oxford with a BA French and German and used to work as an intern at Giving What We Can. She taught in Austria for a year, before setting up education initiatives for Syrian refugees and for disadvantaged school pupils in Kampala. Currently, she works in <a href="http://www.malariaconsortium.org/">Malaria Consortium</a>.
 
 ## Personal advice from experienced effective altruists
 
