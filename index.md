@@ -177,6 +177,15 @@ efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@
 # Sponzoři
 
 <div class="sponsor">
+<span style="display: block; width: 180px; height: 1px;"></span>
+<div class="desc">
+<p>
+Děkujeme panu Janu Bártovi za štědrou finanční podporu.
+</p>
+</div>
+</div>
+
+<div class="sponsor">
 <a href="https://www.paralelnipolis.cz/"><img src="images/paralelnipolis.jpg"
 	style="width: 180px;"></a>
 <div class="desc">
