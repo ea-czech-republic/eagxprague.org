@@ -155,9 +155,13 @@ dl {
 		border-bottom: 1px dotted black;
 	}
 }
-.menu li a.prihlaska-top:after {
-	/*border-top: 0;*/
-	width: 0 !important;
+.menu li {
+	a.prihlaska-top:after {
+		width: 0 !important;
+	}
+	a.facebook-top:after {
+		width: 0 !important;
+	}
 }
 
 div.page-content {
