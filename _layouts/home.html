@@ -4,12 +4,10 @@
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
     {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
-    {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
-    {% if page.author %}
-      {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-    {% endif %}
     {% include open-graph.html %}
     {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
@@ -22,27 +20,60 @@
     <meta http-equiv="cleartype" content="on">
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
       <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
     <![endif]-->
 
+    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script src="{{ site.url }}/js/main.js"></script>
   </head>
 
   <body>
-    {% include header.html %}
-    {% include navigation-sliding.html %}
+	<header id="masthead2">
+	  <div class="inner-wrap">
+	    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <nav role="navigation" class="menu top-menu">
+<ul class="menu-item">
+	<li class="home"><a href="/">{{ site.title }}</a></li>
+
+	<li><a href="#TODO" class="prihlaska-top"><span class="btn btn-success">Přihláška</span></a></li>
+	<!-- TODO: Facebook button -->
+	<li><a href="{{ domain }}/#program">Program</a></li>
+	<li><a href="{{ domain }}/english.html">English</a></li>
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+
+	<header id="masthead">
+	  <div class="inner-wrap">
+	    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <nav role="navigation" class="menu top-menu">
+<ul class="menu-item">
+	<li class="home"><a href="/">{{ site.title }}</a></li>
+
+	<li><a href="#TODO" class="prihlaska-top"><span class="btn btn-success">Přihláška</span></a></li>
+	<li><a href="{{ domain }}/#program">Program</a></li>
+	<li><a href="{{ domain }}/english.html">English</a></li>
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
 
     {% if page.image.feature %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1>EAGxPrague 2016</h1>
-        <h2>Vyřešme společně vážné globální problémy!</h2>
-	<h3><i>10. prosince 2016, <a
-	   href="https://www.paralelnipolis.cz/"><img src="images/pp-white-75.png"> Paralelní Polis</a></i></h3>
-	<h3><i><span style="font-weight: normal;">Registrace:</span> bude
-			spuštěna brzy</i></h3>
+        <h2>Skutečné problémy a jejich efektivní řešení</h2>
+	<h3>10. prosince 2016<span style="display: inline-block; width: 80px;"></span> <a
+	   href="https://www.paralelnipolis.cz/"><img src="images/pp-black-75.png">Paralelní Polis</a></h3>
+
+	<h3><a class="btn btn-success" id="primary-reg-button"
+				href="#reg">Přihláška</a></h3>
         <!-- <a href="http://efektivni-altruismus.cz/o-ea/" class="btn-inverse">Více informací</a> -->
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
@@ -55,21 +86,88 @@
         <div class="wrap">
           <div class="page-title">
             <h1>{{ page.title }}</h1>
-            {% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
           </div>
+
+
           <div class="archive-wrap">
             <div class="page-content">
+<section id="intro">
+Série přednášek našich vynikajících hostů poskytne dostatek informací
+	pro každého, kdo se zajímá o to, jak udělat co nejvíce
+	pro lidstvo s omezenými prostředky.
+
+	Žijeme v době, kdy i jednotlivec z naší společnosti může zachránit
+	tisíce lidských životů. Stačí na to jít tou správnou cestou a
+    právě o ní se můžete dozvědět na naší konferenci EAGxPrague!
+
+	Pojďmě společně chytře za lepším světem!
+</section>
+	<section id="themes">
+	<div class="theme-carousel">
+	  <div id="theme-ea">
+		  <h3><span>Téma: Efektivní altruismus</span></h3>
+
+		<p>
+			Snižování utrpení pomocí rozumu a důkazů.
+		</p>
+
+	  </div>
+	  <div id="theme-future">
+		  <h3><span>Téma: Technologický pokrok a budoucnost
+				  lidstva</span></h3>
+
+		<p>
+			Vedou technologie k nebývalému rozkvětu? Zvládneme rizika z jejich překotného vývoje?
+		</p>
+	  </div>
+	  <div id="theme-development-aid">
+		  <h3><span>Téma: Rozvojová pomoc</span></h3>
+
+		<p>
+			Vědecky podložená řešení, která prokazatelně pomáhájí stovkám milionů
+			lidem v rozvojových zemích.
+		</p>
+	  </div>
+	  <div id="theme-rationality">
+		  <h3><span>Téma: Racionalita a rozhodování</span></h3>
+		<p>
+			Ke správným řešením se dá dospět se správným uvažováním.
+			Jakých systematických chyb se dopouštíme a jak je eliminovat?
+		</p>
+	  </div>
+	  <div id="theme-career">
+		  <h3><span>Téma: Výběr prospěšné kariéry</span></h3>
+		<p>
+			V zaměstnání za život strávíme 80 000 hodin. Jak
+			za tento krátký čas zároveň co nejvíce pomoci ostatním?
+		</p>
+	  </div>
+	  </div>
+	</section>
+
               {{ content }}
             </div><!-- /.page-content -->
           </div><!-- /.archive-wrap -->
         </div><!-- /.wrap -->
       </div><!-- /#main -->
 
+	<footer role="contentinfo" id="site-footer">
+		<nav role="navigation" class="menu bottom-menu">
+			<ul class="menu-item">
+				<li><a href="{{ domain }}/">EAGxPrague 2016</a></li>
+				<li><a href="#TODO">Přihláška</a></li>
+				<li><a href="{{ domain }}/#program">Program</a></li>
+				<li><a href="{{ domain }}/english.html">English</a></li>
+			</ul>
+		</nav><!-- /.bottom-menu -->
+		<p class="copyright">
+		&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> powered by <a href="http://jekyllrb.com">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a>.
+		GitHub: <a href="http://github.com/ea-czech-republic/eagxprague.org">github.com/ea-czech-republic/eagxprague.org</a> -
+		patches welcome.
+		</p>
+	</footer>
       {% include footer.html %}
     </div>
-
-    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.url }}/js/main.js"></script>
 
   </body>
 

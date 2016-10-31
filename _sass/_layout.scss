@@ -7,6 +7,13 @@
    ========================================================================== */
 
 #masthead {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+#masthead, #masthead2 {
 	padding: $gutter;
 	z-index: 5;
 	@include transform(translate(0,0));
@@ -96,7 +103,7 @@
 /* Top menu navigation */
 
 .top-menu {
-	display: none;
+	/*display: none;*/
 	position: relative;
 	@include media($medium) {
 		@include span-columns(12);
@@ -244,7 +251,7 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
-	color: $white;
+	color: $black;
 	@include media($large) {
 		background-size: cover;
 	}
@@ -258,12 +265,12 @@
 		padding: 3em;
 	}
 	h1 {
-		@include font-size(48);
+		@include font-size(32);
 		@include media($medium) {
-			@include font-size(60);
+			@include font-size(48);
 		}
 		@include media($large) {
-			@include font-size(72);
+			@include font-size(60);
 		}
 	}
 	h2 {
@@ -277,7 +284,7 @@
 	}
 	h3 {
 		a {
-			color: #eee;
+			color: $black;
 		}
 		margin-top: 0;
 		margin-bottom: 0;
