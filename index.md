@@ -98,8 +98,8 @@ schopnost nutná k efektivnímu dosahování našich osobních i morálních cí
 	style="width: 180px;" >
 <div class="desc">
 <p>
-<i>Lucius Caviola</i> je odpovědný za růst organizací <a href="https://ea-foundation.org/">Effective Altruism Foundation</a>
-a <a href="https://sentience-politics.org/">Sentience Politics</a>. Dokončuje
+<i>Lucius Caviola</i> je Director of Outreach v <a href="https://ea-foundation.org/">Effective Altruism Foundation</a>
+a stará se o růst této organizace a organizace <a href="https://sentience-politics.org/">Sentience Politics</a>. Dokončuje
 svá PhD studia na University of Oxford, kde se věnuje kromě jiných témat
 výzkumu psychologie speciesismu a efektivního altruismu.
 </p>
@@ -108,9 +108,26 @@ výzkumu psychologie speciesismu a efektivního altruismu.
 
 ## Jak mohou světu pomoci studenti
 
-Ollie & Nikita
+<i>Ollie Base</i> a <i>Nikita Patel</i> pracují pro
+<a href="http://www.shicschools.org/">Students for High-Impact Charity</a>,
+což je globální síť studentských klubů, jejímž cílem je zkoumání toho,
+jak mohou studenti mít co největšího prosociální dopad. Jejich program se
+zaměřuje speciálně na roli, kterou budou věda, technologie, inženýrství
+a matematika (STEM) hrát v budoucím mezinárodním vývoji.
+Ve své společné přednášce nám představí svou vizi a způsoby, jak mohou
+studenti pomoci světu.
 
-TODO TODO
+<i>Ollie Base</i> je student filosofie a psychologie v Kolíně nad Rýnem.
+Poslední rok předsedal Effective Altruism Society Warwick a právě zakládá
+místní organizaci v Kolíně. Ollie byl člen týmu, který zkompiloval
+program SHIC a tomuto projektu dále na dálku přispívá.
+
+<i>Nikita Patel</i> nedávno ukončila studia na University of Oxford s bakalářským titulem
+z francouzského a německého jazyka. Pracuje v organizaci <a href="http://www.malariaconsortium.org/">Malaria Consortium</a>
+a dříve stážovala v <a href="https://www.givingwhatwecan.org/">Giving What We Can</a>,
+významném evaluátoru charit pro EA komunitu. Jeden rok učila v Austrálii
+a poté zahájila výukové iniciativy pro syrské uprchlíky a pro znevýhodněné
+žáky v Kampale.
 
 ## Osobní rady od zkušených efektivních altruistů
 
