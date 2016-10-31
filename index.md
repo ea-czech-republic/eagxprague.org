@@ -6,6 +6,7 @@ image:
 ---
 
 <a name="program"></a>
+
 # Program
 
 ## Efektivní pomoc nejpotřebnějším
@@ -44,7 +45,7 @@ k jaderné válce?
 <img src="images/speakers/johannes-treutlein.jpg">
 <div class="desc">
 <p>
-<i>Johannes Treutlein</i> je odpovědný za růst Sentience Politics, <!-- TODO link na sentience politics -->
+<i>Johannes Treutlein</i> je odpovědný za růst <a href="https://sentience-politics.org/">Sentience Politics</a>,
 organizace, jejímž cílem je snižování utrpení všech rozumných bytostí.
 Kromě toho pracuje na komunikaci a šíření myšlenky Efektivního Altruismu
 mezi ochránci zvířat. Ve své přednášce bude mluvit o <b>pozitivních a negativních
@@ -85,21 +86,48 @@ efektivní charitu. Ke květnu 2016 bylo přes tento program přislíbeno již
 
 ## Dysracionalie - Proč inteligentní lidé dělají špatná rozhodnutí
 
+Proč někteří lidé dělají špatná rozhodnutí? Ve své přednášce <i>Lucius Caviola</i>
+vysvětlí, že testy inteligence neměří správně míru racionálního myšlení a
+rozhodování. Studie naznačují, že korelace mezi IQ a hypotetickým "koeficientem
+racionality" je slabší, než by se dalo očekávat. Lepší porozumění psychologii
+racionálního myšlení nám pomůže lépe měřit a zlepšovat racionalitu, což je
+schopnost nutná k efektivnímu dosahování našich osobních i morálních cílů.
+
 <div class="speaker">
 <img src="images/speakers/lucius-caviola.jpg"
 	style="width: 180px;" >
 <div class="desc">
 <p>
-<i>Lucius Caviola</i> 
+<i>Lucius Caviola</i> je Director of Outreach v <a href="https://ea-foundation.org/">Effective Altruism Foundation</a>
+a stará se o růst této organizace a organizace <a href="https://sentience-politics.org/">Sentience Politics</a>. Dokončuje
+svá PhD studia na University of Oxford, kde se věnuje kromě jiných témat
+výzkumu psychologie speciesismu a efektivního altruismu.
 </p>
 </div>
 </div>
 
 ## Jak mohou světu pomoci studenti
 
-Ollie & Nikita
+<i>Ollie Base</i> a <i>Nikita Patel</i> pracují pro
+<a href="http://www.shicschools.org/">Students for High-Impact Charity</a>,
+což je globální síť studentských klubů, jejímž cílem je zkoumání toho,
+jak mohou studenti mít co největšího prosociální dopad. Jejich program se
+zaměřuje speciálně na roli, kterou budou věda, technologie, inženýrství
+a matematika (STEM) hrát v budoucím mezinárodním vývoji.
+Ve své společné přednášce nám představí svou vizi a způsoby, jak mohou
+studenti pomoci světu.
 
-TODO TODO
+<i>Ollie Base</i> je student filosofie a psychologie v Kolíně nad Rýnem.
+Poslední rok předsedal Effective Altruism Society Warwick a právě zakládá
+místní organizaci v Kolíně. Ollie byl člen týmu, který zkompiloval
+program SHIC a tomuto projektu dále na dálku přispívá.
+
+<i>Nikita Patel</i> nedávno ukončila studia na University of Oxford s bakalářským titulem
+z francouzského a německého jazyka. Pracuje v organizaci <a href="http://www.malariaconsortium.org/">Malaria Consortium</a>
+a dříve stážovala v <a href="https://www.givingwhatwecan.org/">Giving What We Can</a>,
+významném evaluátoru charit pro EA komunitu. Jeden rok učila v Austrálii
+a poté zahájila výukové iniciativy pro syrské uprchlíky a pro znevýhodněné
+žáky v Kampale.
 
 ## Osobní rady od zkušených efektivních altruistů
 
