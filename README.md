@@ -8,9 +8,15 @@ bundle exec jekyll serve
 # otevři http://127.0.0.1:4000/
 ```
 
+### Build JS
+
+JS je v `js/main.js`.
+
+`grunt uglify`
+
 ## Deploy
 
-Je na to potřeba deploy klíč, který má Michal.
+Je na to potřeba deploy klíč, který mají Michal a Dan.
 
 ```
 ./deploy.sh

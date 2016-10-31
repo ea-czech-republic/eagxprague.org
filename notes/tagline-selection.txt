@@ -1,0 +1,38 @@
+Jirka:
+	Chytře za lepším světem
+
+Dan:
+	Jak činit dobro lépe
+	Jak konat dobro lépe
+	Dobročinnost lépe
+	Co nejvíce dobra za co nejméně úsilí
+
+Michal:
+	Konference o efektivní pomoci
+	Skutečná řešení na skutečné problémy
+	Jak můžeme co nejvíce pomoci světu?
+	Jak můžeme co nejvíce pomoci ostatním?
+	Vyřešme společně vážné globální problémy!
+	Máme úžasnou příležitost pomoci stovkám lidí. Jak na to?
+	Skutečné problémy a jejich efektivní řešení
+
+A/B test?
+
+	Chytře za lepším světem - 3, 3, 4, 3, 5, 1, 3, 3, 3  ==> 3.11
+	Dělejte dobro lépe - 3?, 2, 1, 4, 4, 4, 2, 3, 1  ==> 2.66
+	Konference o efektivní pomoci - 3 ("nejlepsi"), 4, 2, 2, 3, 5, 3, 2, 3 ==> 3.0
+	Máme úžasnou příležitost pomoci stovkám lidí. Jak na to? - 3, 5, 2, 1, 4, 2, 4, 4, 4 ==> 3.22
+	Skutečná řešení na skutečné problémy - 3, 4, 4, 2, 3, 2, 4, 4, 1  ==> 3.0
+	Skutečné problémy a jejich efektivní řešení - 3, 4, 1, 1, 2, 4, 5, 2, 2 ==> 2.66
+	Skutečné problémy, efektivní řešení - 3, 4, 4, 1, 1, 4, 1, 4, 5  ==> 3.0
+
+PZ: "wanna be cool"
+	zneji tuctove
+	prumerne: asi 3
+JM (prokliknu/neprokliknu)
+AD
+OS
+OGY -- "uzasnou": superlativum, neduveruje. "pomoc": emocne zabarvene, rozporuplne.
+PH
+VS
+AA
