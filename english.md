@@ -11,77 +11,17 @@ image:
 
 # Program
 
-## Efektivní pomoc nejpotřebnějším
+## How to choose the right career to help the world?
 
-Jeden z největších a nejznámějších globálních problémů je chudoba.
-Miliardy obyvatel rozvojových zemí jsou stíhány nebezpečnými nemocemi, nízkou
-ekonomickou produktivitou a systematickým znečišťováním životního prostředí.
-
-<!-- TODO: nicer and mobile styling -->
-<div class="speaker">
-<img src="images/speakers/alix-zwane.jpg">
-	<!--style="width: 180px;"> -->
-<div class="desc">
-<p>
-S problematikou <b>výběru a implementace efektivních intervencí pro pomoc
-nejpotřebnějším</b> nás seznámí
-<i>Alix Zwane</i>, expert na veřejné zdraví a CEO <a href="http://www.globalinnovation.fund/">Global Innovation Fund</a>,
-fondu investujícího do sociálního podnikání s cílem zlepšit životy a
-příležitosti milionů lidí v rozvojovém světě. V minulosti pracovala jako
-výkonná ředitelka <a href="http://www.evidenceaction.org/">Evidence Action</a> a jako Senior Program
-Officer ve skupině pro globální rozvoj v <a href="http://www.gatesfoundation.org/">Nadaci Billa a Melindy Gates</a>,
-kde vedla vývoj strategií pro tým Water, Sanitation, and Hygiene.
-</p>
-</div>
-</div>
-
-## Jaká bude naše budoucnost? Jak můžeme dalším generacím přenechat lepší svět?
-
-Svět dnes prochází nebývalou periodou zrychlujícího se technologického
-a ekonomického pokroku. Povede současný vývoj k rozkvětu civilizace a krásné
-budoucnosti, nebo k přelidnění, destruktivním změnám klimatu, nebo dokonce
-k jaderné válce?
-
-<!-- TODO: grid -->
-<div class="speaker">
-<img src="images/speakers/johannes-treutlein.jpg">
-<div class="desc">
-<p>
-<i>Johannes Treutlein</i> je odpovědný za růst <a href="https://sentience-politics.org/">Sentience Politics</a>,
-organizace, jejímž cílem je snižování utrpení všech rozumných bytostí.
-Kromě toho pracuje na komunikaci a šíření myšlenky Efektivního Altruismu
-mezi ochránci zvířat. Ve své přednášce bude mluvit o <b>pozitivních a negativních
-scénářích naší budoucnosti</b> a <b>jak můžeme dnes zlepšovat šanci, aby
-naše společná budoucnost byla co nejlepší</b>.
-</p>
-</div>
-</div>
-
-## Jak vybrat kariéru, kterou co nejvíc pomůžeme světu?
-
-Ohromnou část svého života trávíme v práci. Kvůli tomu je výběr naší
-kariéry nebývale důležité rozhodnutí. Na příkladech jako Bill Gates se dá
-ukázat, že zvolíme-li si tu správnou práci, můžeme skrz ni zlepšit nebo
-zachránit mnoho lidských životů.
-Ale jak si vybrat? Měla bych se stát lékařkou, nebo bych se mohla stát
-podnikatelkou a svým výdělkem financovat tři jiné lékaře?
+We spent an enormous part of our lives in a work. That is the reason why
+ the career selection is so important. Well, how to choose?
 
 <div class="speaker">
 <img src="images/speakers/david-goldberg.jpg"
 	style="width: 180px;" >
 <div class="desc">
 <p>
-Výběr kariéry je velmi důležité rozhodnutí, které je snadné učinit bez tak
-opatrného výběru a přemýšlení, jaké by si rozhodnutí takové velikosti
-zasloužilo. Strategiemi pro <b>výběr kariéry, kterou pomůžeme ostatním</b>,
-nás provede <i>David Goldberg</i>.
-David osobně změnil svou kariéru: skončil studium v PhD programu, kterým by,
-jak usoudil, měl pouze malý pozitivní vliv na svět. Založil organizaci Founders
-Forum for Good, jejíž program <a href="https://founderspledge.com/">Founder's Pledge</a>
-přesvědčuje zakladatele
-budoucích úspěšných startupů, aby věnovali 2% svých budoucích výdělků na
-efektivní charitu. Ke květnu 2016 bylo přes tento program přislíbeno již
-<i>134 milionů dolarů</i>.
+David realized that making social businesses was hard, and a potentially higher-leverage strategy might be to make it easier for people who were founding successful technology businesses to commit to donating the money they would eventually earn. He says that the ideas of effective altruism (that he first encountered in Peter Singer's TED talk), earning to give, and the work of 80,000 Hours in particular, was influential to his thinking and his decision to choose this route. 
 </p>
 </div>
 </div>
