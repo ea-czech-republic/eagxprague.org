@@ -102,6 +102,8 @@ schopnost nutná k efektivnímu dosahování našich osobních i morálních cí
 a stará se o růst této organizace a organizace <a href="https://sentience-politics.org/">Sentience Politics</a>. Dokončuje
 svá PhD studia na University of Oxford, kde se věnuje kromě jiných témat
 výzkumu psychologie speciesismu a efektivního altruismu.
+Dále spoluzaložil charitu <a href="https://reg-charity.org/">Raising for Effective Giving</a>
+a EA hnutí v německy mluvících zemích.
 </p>
 </div>
 </div>
