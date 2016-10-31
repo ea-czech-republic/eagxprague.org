@@ -23,11 +23,11 @@ ekonomickou produktivitou a systematickým znečišťováním životního prost�
 <p>
 S problematikou <b>výběru a implementace efektivních intervencí pro pomoc
 nejpotřebnějším</b> nás seznámí
-<i>Alix Zwane</i>, expert na veřejné zdraví a CEO Global Innovation Fund, <!-- TODO link -->
+<i>Alix Zwane</i>, expert na veřejné zdraví a CEO <a href="http://www.globalinnovation.fund/">Global Innovation Fund</a>,
 fondu investujícího do sociálního podnikání s cílem zlepšit životy a
 příležitosti milionů lidí v rozvojovém světě. V minulosti pracovala jako
-výkonná ředitelka Evidence Action <!-- TODO link --> a jako Senior Program
-Officer ve skupině pro globální rozvoj v Nadaci Billa a Melindy Gates,
+výkonná ředitelka <a href="http://www.evidenceaction.org/">Evidence Action</a> a jako Senior Program
+Officer ve skupině pro globální rozvoj v <a href="http://www.gatesfoundation.org/">Nadaci Billa a Melindy Gates</a>,
 kde vedla vývoj strategií pro tým Water, Sanitation, and Hygiene.
 </p>
 </div>
