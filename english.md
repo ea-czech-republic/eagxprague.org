@@ -11,6 +11,51 @@ image:
 
 # Program
 
+## Effective development aid
+
+One of the greatest global problems is poverty.
+Millions of people in developing countries are plagued by dangerous diseases,
+low economical productivity and systematic destruction of the environment.
+
+<!-- TODO: nicer and mobile styling -->
+<div class="speaker">
+<img src="images/speakers/alix-zwane.jpg">
+<div class="desc">
+<p>
+<i>Alix Zwane</i>, an expert on global health and the CEO of <a href="http://www.globalinnovation.fund/">Global Innovation Fund</a>,
+will introduce the problem of <b>inventing and implementing effective
+interventions for helping the most needy</b>. The Global Innovations Fund
+invests into social entrepreneurship projects aiming to improve the lives and
+opportunities of millions of people in the developing world. In the past,
+Alix worked as the executive director of <a href="http://www.evidenceaction.org/">Evidence Action</a>
+and as Senior Program Officer in the global development group at the <a href="http://www.gatesfoundation.org/">Bill and Melinda Gates Foundation</a>,
+where she led strategy development for the Water, Sanitation, and Hygiene team.
+</p>
+</div>
+</div>
+
+## What will the future be like? How can we secure a better world for future generations?
+
+The world is undergoing an unprecedented period of accelerating technological
+and economical growth. Will the current trajectory lead to a blossoming
+civilization and a utopian future, or are we headed for overpopulation,
+destructive climate change, or even global thermonuclear war?
+
+<!-- TODO: grid -->
+<div class="speaker">
+<img src="images/speakers/johannes-treutlein.jpg">
+<div class="desc">
+<p>
+<i>Johannes Treutlein</i> works on growth at <a href="https://sentience-politics.org/">Sentience Politics</a>,
+an organization whose aim is reducing suffering of all conscious beings.
+He also works on communicating and spreading the idea of Effective Altruism
+among animal advocacy groups. In his talk, he will talk about <b>positive and
+negative possible future outcomes</b> and <b>what actions can we take today
+to secure a good future free of suffering</b>.
+</p>
+</div>
+</div>
+
 ## How to choose the right career to help the world?
 
 We spend an enormous part of our lives at work. That is why
@@ -46,7 +91,7 @@ reach our personal and even moral goals.
 </div>
 </div>
 
-## How can students help?
+## How can students help the world?
 
 <i>Ollie Base</i> and <i>Nikita Patel</i> work for <a href="http://www.shicschools.org/">Students for High-Impact Charity</a>. 
 In their talk, they will present their vision and approaches, how students can help the world. 
