@@ -47,6 +47,21 @@
     </nav>
   </div><!-- /.inner-wrap -->
 </header><!-- /.masthead -->
+	<header id="masthead">
+	  <div class="inner-wrap">
+	    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <nav role="navigation" class="menu top-menu">
+<ul class="menu-item">
+	<li class="home"><a href="/">{{ site.title }}</a></li>
+
+    <!--	<li><a href="#TODO" class="prihlaska-top"><span class="btn btn-success">Application</span></a></li>-->
+	<!-- TODO: Facebook button -->
+	<li><a href="{{ domain }}/#program">Program</a></li>
+	<li><a href="{{ domain }}/">Czech</a></li>
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
 
     {% if page.image.feature %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
