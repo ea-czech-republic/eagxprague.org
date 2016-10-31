@@ -153,6 +153,12 @@ také <a href="http://efektivni-altruismus.cz/zdroje">seznam některých
 podrobnějších zdrojů</a>. Protože efektivní altruismus v Čechách teprve začíná,
 doporučujeme informovat se v angličtině na <a href="http://www.effectivealtruism.org/">http://www.effectivealtruism.org/</a>.
 </dd>
+<dt>Konference se chci zúčastnit, ale bohužel by pro mě byl problém zaplatit
+vstupné...</dt>
+<dd>V takovém případě nám napište e-mail na <a
+href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> -- v případě, že
+by Vám v účasti měly bránit finanční potíže, rozmyslíme se a můžeme Vám cenu
+vstupenky odpusit.</dd>
 <dt>Bude na konferenci občerstvení?</dt>
 <dd>Ano - na konferenci bude zajištěný catering na celý den. Strava bude vhodná i
 pro vegetariány i vegany.</dd>
