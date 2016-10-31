@@ -45,7 +45,7 @@ k jaderné válce?
 <img src="images/speakers/johannes-treutlein.jpg">
 <div class="desc">
 <p>
-<i>Johannes Treutlein</i> je odpovědný za růst Sentience Politics, <!-- TODO link na sentience politics -->
+<i>Johannes Treutlein</i> je odpovědný za růst <a href="https://sentience-politics.org/">Sentience Politics</a>,
 organizace, jejímž cílem je snižování utrpení všech rozumných bytostí.
 Kromě toho pracuje na komunikaci a šíření myšlenky Efektivního Altruismu
 mezi ochránci zvířat. Ve své přednášce bude mluvit o <b>pozitivních a negativních
@@ -86,12 +86,22 @@ efektivní charitu. Ke květnu 2016 bylo přes tento program přislíbeno již
 
 ## Dysracionalie - Proč inteligentní lidé dělají špatná rozhodnutí
 
+Proč někteří lidé dělají špatná rozhodnutí? Ve své přednášce <i>Lucius Caviola</i>
+vysvětlí, že testy inteligence neměří správně míru racionálního myšlení a
+rozhodování. Studie naznačují, že korelace mezi IQ a hypotetickým "koeficientem
+racionality" je slabší, než by se dalo očekávat. Lepší porozumění psychologii
+racionálního myšlení nám pomůže lépe měřit a zlepšovat racionalitu, což je
+schopnost nutná k efektivnímu dosahování našich osobních i morálních cílů.
+
 <div class="speaker">
 <img src="images/speakers/lucius-caviola.jpg"
 	style="width: 180px;" >
 <div class="desc">
 <p>
-<i>Lucius Caviola</i> 
+<i>Lucius Caviola</i> je odpovědný za růst organizací <a href="https://ea-foundation.org/">Effective Altruism Foundation</a>
+a <a href="https://sentience-politics.org/">Sentience Politics</a>. Dokončuje
+svá PhD studia na University of Oxford, kde se věnuje kromě jiných témat
+výzkumu psychologie speciesismu a efektivního altruismu.
 </p>
 </div>
 </div>
