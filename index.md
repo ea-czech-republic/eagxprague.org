@@ -9,8 +9,9 @@ image:
 <br>
 
 # Program
+Většina přednášek bude v Anglickém jazyce. 
 
-## Efektivní pomoc nejpotřebnějším (Angličtina)
+## Efektivní pomoc nejpotřebnějším  
 
 Jeden z největších a nejznámějších globálních problémů je chudoba.
 Miliardy obyvatel rozvojových zemí jsou stíhány nebezpečnými nemocemi, nízkou
@@ -34,7 +35,7 @@ kde vedla vývoj strategií pro tým Water, Sanitation, and Hygiene.
 </div>
 </div>
 
-## Jaká bude naše budoucnost? Jak můžeme dalším generacím přenechat lepší svět? (Angličtina)
+## Jaká bude naše budoucnost? Jak můžeme dalším generacím přenechat lepší svět?  
 
 Svět dnes prochází nebývalou periodou zrychlujícího se technologického
 a ekonomického pokroku. Povede současný vývoj k rozkvětu civilizace a krásné
@@ -56,7 +57,7 @@ naše společná budoucnost byla co nejlepší</b>.
 </div>
 </div>
 
-## Jak vybrat kariéru, kterou co nejvíc pomůžeme světu? (Angličtina)
+## Jak vybrat kariéru, kterou co nejvíc pomůžeme světu?  
 
 Ohromnou část svého života trávíme v práci. Kvůli tomu je výběr naší
 kariéry nebývale důležité rozhodnutí. Na příkladech jako Bill Gates se dá
@@ -85,7 +86,7 @@ efektivní charitu. Ke květnu 2016 bylo přes tento program přislíbeno již
 </div>
 </div>
 
-## Dysracionalie - Proč inteligentní lidé dělají špatná rozhodnutí  (Angličtina)
+## Dysracionalie - Proč inteligentní lidé dělají špatná rozhodnutí   
 
 Proč někteří lidé dělají špatná rozhodnutí? Ve své přednášce <i>Lucius Caviola</i>
 vysvětlí, že testy inteligence neměří správně míru racionálního myšlení a
@@ -109,7 +110,7 @@ a EA hnutí v německy mluvících zemích.
 </div>
 </div>
 
-## Jak mohou světu pomoci studenti  (Angličtina)
+## Jak mohou světu pomoci studenti   
 
 <i>Ollie Base</i> a <i>Nikita Patel</i> pracují pro
 <a href="http://www.shicschools.org/">Students for High-Impact Charity</a>,
@@ -132,7 +133,7 @@ významném evaluátoru charit pro EA komunitu. Jeden rok učila v Austrálii
 a poté zahájila výukové iniciativy pro syrské uprchlíky a pro znevýhodněné
 žáky v Kampale.
 
-## Osobní rady od zkušených efektivních altruistů  (Angličtina)
+## Osobní rady od zkušených efektivních altruistů   
 
 V průběhu dne budou Lucius Caviola a Johannes Treutlein poskytovat
 *sloty na osobní setkání*. Oba jsou zkušení efektivní altruisté a mohou
