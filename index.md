@@ -9,6 +9,7 @@ image:
 <br>
 
 # Program
+Většina přednášek bude v anglickém jazyce. 
 
 ## Efektivní pomoc nejpotřebnějším
 
