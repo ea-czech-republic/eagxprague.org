@@ -156,6 +156,10 @@ také <a href="http://efektivni-altruismus.cz/zdroje">seznam některých
 podrobnějších zdrojů</a>. Protože efektivní altruismus v Čechách teprve začíná,
 doporučujeme informovat se v angličtině na <a href="http://www.effectivealtruism.org/">http://www.effectivealtruism.org/</a>.
 </dd>
+<dt>Co znamená <b>EAGx</b>?</dt>
+<dd>
+EAGx je anglická zkratka pro <i>Efective Altruism Global X</i> (více informací například <a href="https://www.eaglobal.org/eagx/">zde</a>). V rámci tohoto programu se po celém světě konají konference, které se snaží rozšířit myšlenky Efektivního altruismu mezi co nejvíce lidí. A jedna z znich je právě <b>EAGxPrague</b>!
+</dd>
 <dt>Konference se chci zúčastnit, ale bohužel by pro mě byl problém zaplatit
 vstupné...</dt>
 <dd>V takovém případě nám napište e-mail na <a
