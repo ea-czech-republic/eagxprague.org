@@ -143,7 +143,7 @@ We thank Mr. Jan Bárta for his generous financial support of EAGxPrague.
 </div>
 </div>
 
-<div class="speaker"> <!--TODO: predelat na vlastni tridu, zatim ukradeno od speakeru -->
+<div class="sponsor">
 <a href="https://www.paralelnipolis.cz/"><img src="images/paralelnipolis.jpg"
 	style="width: 180px;" ></a>
 <p>
