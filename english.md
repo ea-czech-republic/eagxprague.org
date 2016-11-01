@@ -61,18 +61,30 @@ to secure a good future free of suffering</b>.
 We spend an enormous part of our lives at work. That is why
 career selection is so important - by choosing a socially beneficial career,
 one can have a huge positive impact. Well, how does one choose?
+The enormously important issue of <b>career selection</b> will be explored
+by <i>David Goldberg</i>
 
 <div class="speaker">
 <img src="images/speakers/david-goldberg.jpg"
 	style="width: 180px;" >
 <div class="desc">
 <p>
-David realized that making social businesses was hard, and a potentially higher-leverage strategy might be to make it easier for people who were founding successful technology businesses to commit to donating the money they would eventually earn. He says that the ideas of effective altruism (that he first encountered in Peter Singer's TED talk), earning to give, and the work of 80,000 Hours in particular, was influential to his thinking and his decision to choose this route. 
+David realized that making social businesses was hard, and a potentially
+higher-leverage strategy might be to make it easier for people who were
+founding successful technology businesses to commit to donating the money they
+would eventually earn. He says that the ideas of effective altruism (that he
+first encountered in Peter Singer's TED talk), earning to give, and the work
+of 80,000 Hours in particular, was influential to his thinking and his decision
+to choose this route. He founded the Founders Forum for Good, which runs the
+<a href="https://founderspledge.com/">Founder's Pledge</a> program that
+commits startup founders to donate 2% of their future earnings to effective
+charity. By May 2016, the net amount of money pledged through the Founder's
+Pledge exceeded <i>$134 million</i>.
 </p>
 </div>
 </div>
 
-## Dysrationalia - Why Smart People Do Stupid Things?
+## Dysrationalia - Why smart people so stupid things
 
 In his talk, <i>Lucius Caviola</i> will explain that IQ tests don't measure
 the amount of rational thinking and decision correctly.
