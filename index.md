@@ -204,7 +204,7 @@ můžeme doporučit knihu <a href="http://www.effectivealtruism.com/">Doing Good
 Máte-li zájem, rádi s Vámi také budeme spolupracovat v rámci Spolku pro
 efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@gmail.com">efektivnialtruismus@gmail.com</a>.
 </dd>
-<dt>Nedozvěděl jsem se $NĚCO</dt>
+<dt>Nedozvěděl jsem se {doplňte}</dt>
 <dd>V tom případě nás neváhejte kontaktovat na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a nebo se zeptejte na události na Facebooku. </dd>
 </dl>
 
