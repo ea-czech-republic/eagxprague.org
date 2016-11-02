@@ -8,6 +8,12 @@ image:
 <a name="program"></a>
 <br>
 
+# Proč EAGxPrague?
+Cílem konference je seznámit Českou veřejnost s myšlenkou efektivního altruismu a sjednotit síly podobně smýšlejících lidí.
+Toho chceme dosáhnout vhodnou volbou přednášek a také stylem konference. Na své by si měli přijít jak <i>altruisté-začátečnici</i>
+tak i ti, co už se s tímto hnutím v minulosti potkali a nebo se v něm již angažují. Spolek pro Efektivní Altruismus
+by tímto rád vytvořil dostatečně silnou základnu v České republice i pro dlouhodobější činnost.
+
 # Program
 Většina přednášek bude v anglickém jazyce.
 
@@ -181,15 +187,13 @@ Nevadí-li vám anglický jazyk, pak navštivte oficiální stránky efektivníh
 <dd>
 EAGx je anglická zkratka pro <i>Efective Altruism Global X</i> (více informací například <a href="https://www.eaglobal.org/eagx/">zde</a>). V rámci tohoto programu se po celém světě konají konference, které se snaží rozšířit myšlenky Efektivního altruismu mezi co nejvíce lidí. A jedna z znich je právě <b>EAGxPrague</b>!
 </dd>
-<dt>Konference se chci zúčastnit, ale bohužel by pro mě byl problém zaplatit
-vstupné...</dt>
-<dd>V takovém případě nám napište e-mail na <a
-href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> -- v případě, že
-by Vám v účasti měly bránit finanční potíže, rozmyslíme se a můžeme Vám cenu
-vstupenky odpusit.</dd>
 <dt>Bude na konferenci občerstvení?</dt>
 <dd>Ano - na konferenci bude zajištěný catering na celý den. Strava bude vhodná i
 pro vegetariány i vegany.</dd>
+<dt>Kolik stojí vstupné?</dt>
+<dd>150,- Kč pro studenty a lidi pracující v neziskovém sektoru. Pro ostatní 400,- Kč.</dd>
+<dt>To je moc... Rád bych se zúčastnil, ale vstupné si nemohu dovolit.</dt>
+<dd>Tak pak nám napište e-mail na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a určitě něco vymyslíme ;-) .</dd>
 <dt>Co konkrétně můžu udělat, když chci pomoci?</dt>
 <dd>
 Některé způsoby máme uvedené <a href="http://efektivni-altruismus.cz/jak-pomoci">na stránkách Spolku pro efektivní altruismus</a>.
@@ -200,6 +204,8 @@ můžeme doporučit knihu <a href="http://www.effectivealtruism.com/">Doing Good
 Máte-li zájem, rádi s Vámi také budeme spolupracovat v rámci Spolku pro
 efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@gmail.com">efektivnialtruismus@gmail.com</a>.
 </dd>
+<dt>Nedozvěděl jsem se $NĚCO</dt>
+<dd>V tom případě nás neváhejte kontaktovat na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a nebo se zeptejte na události na Facebooku. </dd>
 </dl>
 
 # Sponzoři
