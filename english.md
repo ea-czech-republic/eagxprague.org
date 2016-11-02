@@ -26,9 +26,9 @@ an effective altruist</i>?
 <i>Radim Lacina</i>, a recipient of the prestigious Bakala stipend, will
 present an introductory talk in Czech with a description of effective altruism
 and of the basic philosophical assumptions and arguments for it.
-Since high school, Radim has been engaged in effective charity, and co-founded
-the Czech Association for Effective Altruism in 2016. He is currently studying
-philosophy and linguistics at Hugh's College at the University of Oxford.
+Radim studies Philosophy and Linguistics at St Hugh's College at the University
+of Oxford. Radim has been engaged in the Effective Altruism movement since high
+school and co-founded the Czech Association for Effective Altruism.
 </p>
 </div>
 </div>
