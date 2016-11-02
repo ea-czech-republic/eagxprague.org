@@ -14,7 +14,7 @@ Většina přednášek bude v anglickém jazyce.
 ## Efektivní pomoc nejpotřebnějším
 
 Jeden z největších a nejznámějších globálních problémů je chudoba.
-Miliardy obyvatel rozvojových zemí jsou stíhány nebezpečnými nemocemi, nízkou
+Miliardy obyvatel rozvojových zemí jsou zasaženy nebezpečnými nemocemi, nízkou
 ekonomickou produktivitou a systematickým znečišťováním životního prostředí.
 
 <!-- TODO: nicer and mobile styling -->
@@ -51,8 +51,7 @@ k jaderné válce?
 organizace, jejímž cílem je snižování utrpení všech rozumných bytostí.
 Kromě toho pracuje na komunikaci a šíření myšlenky Efektivního Altruismu
 mezi ochránci zvířat. Ve své přednášce bude mluvit o <b>pozitivních a negativních
-scénářích naší budoucnosti</b> a <b>jak můžeme dnes zlepšovat šanci, aby
-naše společná budoucnost byla co nejlepší</b>.
+scénářích naší budoucnosti</b> a i o tom, <b>jak dnes můžeme zvýšit šanci na co nejlepší společnou budoucnost.</b>.
 </p>
 </div>
 </div>
@@ -151,11 +150,11 @@ specifické možnosti efektivní pomoci existují pro Čechy a Češky.
 <dl>
 <dt>Efektivní altruismus zní zajímavě - kde se můžu dozvědět víc?</dt>
 <dd>
-Na webových stránkách Spolku pro efektivní altruismus máme <a
+Na webových stránkách Spolku pro efektivní altruismus můžete nalézt <a
 href="http://efektivni-altruismus.cz/o-ea">krátký úvod do problematiky EA</a>, a
 také <a href="http://efektivni-altruismus.cz/zdroje">seznam některých
-podrobnějších zdrojů</a>. Protože efektivní altruismus v Čechách teprve začíná,
-doporučujeme informovat se v angličtině na <a href="http://www.effectivealtruism.org/">http://www.effectivealtruism.org/</a>.
+podrobnějších zdrojů</a>. Také vřele doporučujeme stručný, ale výstižný článek Šimona Podhájského <a href="http://efektivni-altruismus.cz/altruismus-2.0/">Altruismus 2.0.</a> 
+Nevadí-li vám anglický jazyk, pak navštivte oficiální stránky efektivního altruismu: <a href="http://www.effectivealtruism.org/">http://www.effectivealtruism.org/</a>.
 </dd>
 <dt>Co znamená <b>EAGx</b>?</dt>
 <dd>
