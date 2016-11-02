@@ -10,8 +10,8 @@ image:
 
 # Proč EAGxPrague?
 Cílem konference je seznámit Českou veřejnost s myšlenkou efektivního altruismu a sjednotit síly podobně smýšlejících lidí.
-Toho chceme dosáhnout vhodnou volbou přednášek a také stylem konference. Na své by si měli přijít jak <i>altruisté-začátečnici</i>
-tak i ti, co už se s tímto hnutím v minulosti potkali a nebo se v něm již angažují. Spolek pro Efektivní Altruismus
+Toho chceme dosáhnout vhodnou volbou přednášek a také stylem konference. Na své by si měli přijít jak <i>altruisté-začátečnici</i>,
+tak i ti, co už se s tímto hnutím v minulosti potkali nebo se v něm již angažují. Spolek pro Efektivní Altruismus
 by tímto rád vytvořil dostatečně silnou základnu v České republice i pro dlouhodobější činnost.
 
 # Program
