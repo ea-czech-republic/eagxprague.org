@@ -209,26 +209,12 @@ efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@
 </dl>
 
 # Sponzoři
-
-<div class="sponsor">
-<span style="display: block; width: 180px; height: 1px;"></span>
-<div class="desc">
 <p>
-Děkujeme panu Janu Bártovi za štědrou finanční podporu.
-</p>
-</div>
-</div>
+Prvním z našich sponzorů je pan Jan Bárta, který nám konferenci pomohl zafinancovat. 
 
-<div class="sponsor">
-<a href="https://www.paralelnipolis.cz/"><img src="images/paralelnipolis.jpg"
-	style="width: 180px;"></a>
-<div class="desc">
-<p>
-Velký dík patří projektu <a href="https://www.paralelnipolis.cz/">Paralelní Polis</a>,
-jenž poskytuje EAGxPrague prostory a technické vybavení za sníženou cenu.
+Velký dík pak patří projektu <a href="https://www.paralelnipolis.cz/">Paralelní Polis</a>,
+který EAGxPrague poskytuje prostory a technické vybavení za sníženou cenu.
 </p>
-</div>
-</div>
 
 # Kontakt
 
