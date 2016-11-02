@@ -191,8 +191,8 @@ EAGx je anglická zkratka pro <i>Efective Altruism Global X</i> (více informac�
 <dd>Ano - na konferenci bude zajištěný catering na celý den. Strava bude vhodná i
 pro vegetariány i vegany.</dd>
 <dt>Kolik stojí vstupné?</dt>
-<dd>150,- Kč pro studenty a lidi pracující v neziskovém sektoru. Pro ostatní 400,- Kč.</dd>
-<dt>To je moc... Rád bych se zúčastnil, ale vstupné si nemohu dovolit.</dt>
+<dd>150,- Kč pro studenty a lidi pracující v neziskovém sektoru. Pro všechny ostatní 400,- Kč.</dd>
+<dt>To je moc... Rád bych se zúčastnil(a), ale vstupné si nemohu dovolit.</dt>
 <dd>Tak pak nám napište e-mail na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a určitě něco vymyslíme ;-) .</dd>
 <dt>Co konkrétně můžu udělat, když chci pomoci?</dt>
 <dd>
@@ -204,8 +204,8 @@ můžeme doporučit knihu <a href="http://www.effectivealtruism.com/">Doing Good
 Máte-li zájem, rádi s Vámi také budeme spolupracovat v rámci Spolku pro
 efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@gmail.com">efektivnialtruismus@gmail.com</a>.
 </dd>
-<dt>Nedozvěděl jsem se {doplňte}</dt>
-<dd>V tom případě nás neváhejte kontaktovat na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a nebo se zeptejte na události na Facebooku. </dd>
+<dt>Nedozvěděl jsem se {doplňte}.</dt>
+<dd>V tom případě se neváhejte doptat na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a nebo na Facebooku. </dd>
 </dl>
 
 # Sponzoři
