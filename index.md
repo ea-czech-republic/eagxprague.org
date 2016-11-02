@@ -9,7 +9,28 @@ image:
 <br>
 
 # Program
-Většina přednášek bude v anglickém jazyce. 
+Většina přednášek bude v anglickém jazyce.
+
+## Úvod do Efektivního Altruismu
+
+Efektivní altruismus je filosofie a sociální hnutí s cílem co nejefektivněji
+zlepšovat svět pomocí zdravého rozumu a vědeckého myšlení.
+Proč je ale vlastně efektivní altruismus dobrý nápad? A co to v praxi znamená,
+být <i>efektivní altruista</i>?
+
+<div class="speaker">
+<img src="images/speakers/radim.jpg">
+<div class="desc">
+<p>
+Úvodní přednášku v češtině s popisem této filosofie a popisem základních
+předpokladů a argumentů nabídne <i>Radim Lacina</i>. Radim získal prestižní
+Bakalovo stipendium a právě studuje filosofii a lingvistiku na Hugh's College
+na University of Oxford. Již od střední školy se angažoval v efektivní charitě
+a je spoluzakladatelem Spolku pro efektivní altruismus, první EA organizace
+v České republice.
+</p>
+</div>
+</div>
 
 ## Efektivní pomoc nejpotřebnějším
 

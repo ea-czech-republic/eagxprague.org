@@ -11,6 +11,28 @@ image:
 
 # Program
 
+## Introduction to Effective Altruism
+
+Effective altruism is a philosophy and social movement with the goal of
+making the world as good as possible as effectively as possible through
+reason and scientific thinking.
+But why is effective altruism a good idea? What does it mean, to actually <i>be
+an effective altruist</i>?
+
+<div class="speaker">
+<img src="images/speakers/radim.jpg">
+<div class="desc">
+<p>
+<i>Radim Lacina</i>, a recipient of the prestigious Bakala stipend, will
+present an introductory talk in Czech with a description of effective altruism
+and of the basic philosophical assumptions and arguments for it.
+Since high school, Radim has been engaged in effective charity, and co-founded
+the Czech Association for Effective Altruism in 2016. He is currently studying
+philosophy and linguistics at Hugh's College at the University of Oxford.
+</p>
+</div>
+</div>
+
 ## Effective development aid
 
 One of the greatest global problems is poverty.
