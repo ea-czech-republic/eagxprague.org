@@ -155,7 +155,7 @@ program SHIC a tomuto projektu dále na dálku přispívá.
 <i>Nikita Patel</i> nedávno ukončila studia na University of Oxford s bakalářským titulem
 z francouzského a německého jazyka. Pracuje v organizaci <a href="http://www.malariaconsortium.org/">Malaria Consortium</a>
 a dříve stážovala v <a href="https://www.givingwhatwecan.org/">Giving What We Can</a>,
-významném evaluátoru charit pro EA komunitu. Jeden rok učila v Austrálii
+významném evaluátoru charit pro EA komunitu. Jeden rok učila v Rakousku
 a poté zahájila výukové iniciativy pro syrské uprchlíky a pro znevýhodněné
 žáky v Kampale.
 
