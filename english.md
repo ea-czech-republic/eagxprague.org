@@ -142,6 +142,23 @@ Lucius Caviola and Johannes Treutlein will offer
 topic you'd like to talk about: for example, *personalized help with career
 selection* or *advice* for your own projects.
 
+# Questions and answers
+
+<dl>
+<dt>Effective altruism sounds great - where can I find out more?</dt>
+<dd>
+We advise you to seek out introductory materials on <a
+href="http://www.effectivealtruism.org/">http://www.effectivealtruism.org/</a>
+and the book <a href="http://www.effectivealtruism.com/">Doing Good Better</a>
+by the eminent philosopher William MacAskill.</dd>
+<dt>How much does a ticket cost?</dt>
+<dd>
+	150 CZK (~$7) for students and people working in the non-profit sector,
+	400 CZK (~$17) for everyone else. Thanks to the technical support of
+	Paralelní Polis, we <i>accept Bitcoin payments for tickets</i>.
+</dd>
+</dl>
+
 # Goals
 
 The goal of our conference is to inform the Czech public about how can
@@ -169,7 +186,9 @@ We thank Mr. Jan Bárta for his generous financial support of EAGxPrague.
 <a href="https://www.paralelnipolis.cz/"><img src="images/paralelnipolis.jpg"
 	style="width: 180px;" ></a>
 <p>
-We sincerely thank <a href="https://www.paralelnipolis.cz/">Paralelní Polis</a> for providing the spaces for our conference at a highly discounted rate.
+We sincerely thank <a href="https://www.paralelnipolis.cz/">Paralelní Polis</a>
+for providing the spaces for our conference at a highly discounted rate
+and for enabling us to accept ticket payments by Bitcoin.
 </p>
 </div>
 

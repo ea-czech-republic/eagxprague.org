@@ -191,7 +191,11 @@ EAGx je anglická zkratka pro <i>Efective Altruism Global X</i> (více informac�
 <dd>Ano - na konferenci bude zajištěný catering na celý den. Strava bude vhodná i
 pro vegetariány i vegany.</dd>
 <dt>Kolik stojí vstupné?</dt>
-<dd>150,- Kč pro studenty a lidi pracující v neziskovém sektoru. Pro všechny ostatní 400,- Kč.</dd>
+<dd>
+	150,- Kč pro studenty a lidi pracující v neziskovém sektoru. Pro všechny ostatní 400,- Kč.
+	Ve spolupráci s Paralelní Polis nabízíme i možnost <i>platit vstupné
+	Bitcoinem</i>.
+</dd>
 <dt>To je moc... Rád bych se zúčastnil(a), ale vstupné si nemohu dovolit.</dt>
 <dd>Tak pak nám napište e-mail na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a určitě něco vymyslíme ;-) .</dd>
 <dt>Co konkrétně můžu udělat, když chci pomoci?</dt>
@@ -224,8 +228,9 @@ Děkujeme panu Janu Bártovi za štědrou finanční podporu.
 	style="width: 180px;"></a>
 <div class="desc">
 <p>
-Velký dík patří projektu <a href="https://www.paralelnipolis.cz/">Paralelní Polis</a>,
-jenž poskytuje EAGxPrague prostory a technické vybavení za sníženou cenu.
+Velký dík patří projektu <a href="https://www.paralelnipolis.cz/">Paralelní Polis</a>
+za poskytují prostor a technického vybavení za sníženou cenu a za umožnění
+platby za lístky Bitcoinem.
 </p>
 </div>
 </div>
