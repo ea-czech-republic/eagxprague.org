@@ -105,9 +105,8 @@ David osobně změnil svou kariéru: skončil studium v PhD programu, kterým by
 jak usoudil, měl pouze malý pozitivní vliv na svět. Založil organizaci Founders
 Forum for Good, jejíž program <a href="https://founderspledge.com/">Founder's Pledge</a>
 přesvědčuje zakladatele
-budoucích úspěšných startupů, aby věnovali 2% svých budoucích výdělků na
-efektivní charitu. Ke květnu 2016 bylo přes tento program přislíbeno již
-<i>134 milionů dolarů</i>.
+budoucích úspěšných startupů, aby věnovali 2% svých budoucích příjmů na
+efektivní charitu. Ke dnešnímu dny příspěvky dosáhly výše <i>186 milionů dolarů</i>.
 </p>
 </div>
 </div>

@@ -94,9 +94,7 @@ first encountered in Peter Singer's TED talk), earning to give, and the work
 of 80,000 Hours in particular, was influential to his thinking and his decision
 to choose this route. He founded the Founders Forum for Good, which runs the
 <a href="https://founderspledge.com/">Founder's Pledge</a> program that
-commits startup founders to donate 2% of their future earnings to effective
-charity. By May 2016, the net amount of money pledged through the Founder's
-Pledge exceeded <i>$134 million</i>.
+commits startup founders to commit 2% of their personal proceeds from exit to the high impact causes they care about. Founders Pledge's total pledge valuation now exceeds <i>$186 000 000</i>.
 </p>
 </div>
 </div>
