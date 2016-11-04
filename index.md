@@ -174,7 +174,7 @@ V průběhu dne budou Lucius Caviola a Johannes Treutlein poskytovat
 vám například nabídnout rady s Vašimi vlastními projekty nebo s rozhodnutími
 ohledně Vaší kariéry.
 
-## Diskuze
+<h2 id='diskuze'>Diskuze</h2>
 
 Kromě těchto a dalších zajímavých přednášek od českých i zahraničních speakerů
 bude probíhat i neformální diskuze, například o tom, jaké
