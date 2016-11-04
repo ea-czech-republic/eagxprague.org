@@ -68,12 +68,7 @@ destructive climate change, or even global thermonuclear war?
 <img src="images/speakers/johannes-treutlein.jpg">
 <div class="desc">
 <p>
-<i>Johannes Treutlein</i> works on growth at <a href="https://sentience-politics.org/">Sentience Politics</a>,
-an organization whose aim is reducing suffering of all conscious beings.
-He also works on communicating and spreading the idea of Effective Altruism
-among animal advocacy groups. In his talk, he will talk about <b>positive and
-negative possible future outcomes</b> and <b>what actions can we take today
-to secure a good future free of suffering</b>.
+Johannes Treutlein works on growth at the Effective Altruism Foundation and their research division, the Foundational Research Institute. He is responsible for communicating and spreading the idea of Effective Altruism among universities in the German-speaking area. In his talk, he will talk about positive and negative possible future outcomes and what actions can we take today to secure a good future free of suffering.
 </p>
 </div>
 </div>
