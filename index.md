@@ -147,10 +147,18 @@ a matematika (STEM) hrát v budoucím mezinárodním vývoji.
 Ve své společné přednášce nám představí svou vizi a způsoby, jak mohou
 studenti pomoci světu.
 
+<div class="speaker">
+<img src="images/speakers/ollie.jpg"
+	style="width: 180px;" >
+<div class="desc">
+<p>
 <i>Ollie Base</i> je student filosofie a psychologie v Kolíně nad Rýnem.
 Poslední rok předsedal Effective Altruism Society Warwick a právě zakládá
 místní organizaci v Kolíně. Ollie byl člen týmu, který zkompiloval
 program SHIC a tomuto projektu dále na dálku přispívá.
+</p>
+</div>
+</div>
 
 <i>Nikita Patel</i> nedávno ukončila studia na University of Oxford s bakalářským titulem
 z francouzského a německého jazyka. Pracuje v organizaci <a href="http://www.malariaconsortium.org/">Malaria Consortium</a>
