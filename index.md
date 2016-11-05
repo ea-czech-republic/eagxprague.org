@@ -30,7 +30,7 @@ být <i>efektivní altruista</i>?
 <p>
 Úvodní přednášku v češtině s popisem této filosofie a popisem základních
 předpokladů a argumentů nabídne <i>Radim Lacina</i>. Radim získal prestižní
-Bakalovo stipendium a právě studuje filosofii a lingvistiku na Hugh's College
+Bakalovo stipendium a nyní studuje filosofii a lingvistiku na St Hugh's College
 na University of Oxford. Již od střední školy se angažoval v efektivní charitě
 a je spoluzakladatelem Spolku pro efektivní altruismus, první EA organizace
 v České republice.
