@@ -225,7 +225,8 @@ efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@
 <span style="display: block; width: 180px; height: 1px;"></span>
 <div class="desc">
 <p>
-Děkujeme panu Janu Bártovi za štědrou finanční podporu.
+Děkujeme panu Janu Bártovi a panu Václavu Dejčmarovi za štědrou finanční
+podporu.
 </p>
 </div>
 </div>

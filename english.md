@@ -178,7 +178,8 @@ wants to benefit others in their life.
 <span style="display: block; width: 180px; height: 1px;"></span>
 <div class="desc">
 <p>
-We thank Mr. Jan Bárta for his generous financial support of EAGxPrague.
+We thank Mr. Jan Bárta and Mr. Václav Dejčmar for their generous financial
+support of EAGxPrague.
 </p>
 </div>
 </div>
