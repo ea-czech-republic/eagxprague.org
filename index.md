@@ -30,7 +30,7 @@ být <i>efektivní altruista</i>?
 <p>
 Úvodní přednášku v češtině s popisem této filosofie a popisem základních
 předpokladů a argumentů nabídne <i>Radim Lacina</i>. Radim získal prestižní
-Bakalovo stipendium a právě studuje filosofii a lingvistiku na Hugh's College
+Bakalovo stipendium a nyní studuje filosofii a lingvistiku na St Hugh's College
 na University of Oxford. Již od střední školy se angažoval v efektivní charitě
 a je spoluzakladatelem Spolku pro efektivní altruismus, první EA organizace
 v České republice.
@@ -225,7 +225,8 @@ efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@
 <span style="display: block; width: 180px; height: 1px;"></span>
 <div class="desc">
 <p>
-Děkujeme panu Janu Bártovi za štědrou finanční podporu.
+Děkujeme panu Janu Bártovi a panu Václavu Dejčmarovi za štědrou finanční
+podporu.
 </p>
 </div>
 </div>
