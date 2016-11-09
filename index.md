@@ -212,11 +212,13 @@ Doporučujeme však, abyste místo darování hned se nejdříve informovali
 podrobněji o problematice a sami si pečlivě rozmysleli, jaká organizace může
 Vaše úsilí nebo Vaše prostředky použít nejefektivněji. K tomu účelu
 můžeme doporučit knihu <a href="http://www.effectivealtruism.com/">Doing Good Better</a> od filosofa Williama MacAskilla.
-Máte-li zájem, rádi s Vámi také budeme spolupracovat v rámci Spolku pro
-efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@gmail.com">efektivnialtruismus@gmail.com</a>.
 </dd>
-<dt>Na konferenci nemůžete, ale rádi byste se zapojili jinak</dt>
-<dd>Pak pokračujte na web našeho spolku do sekce <a href='http://efektivni-altruismus.cz/jak-pomoci/'>Jak pomoci</a></dd>
+<dt>Na konferenci nemůžete, ale rádi byste se zapojili jinak.</dt>
+<dd>
+V první řadě je možné se <a href='https://effectivealtruismhub.us10.list-manage.com/subscribe?u=6674b2f70fed64e610d630527&id=bf5e6c96f3'>přihlásit do našeho mail listu</a> nebo na náš <a href='https://www.facebook.com/efektivnialtruismus/'>Facebook</a> a my se už postaráme o to, abyste vždy věděli o našich aktivitách a setkání. 
+
+Další informace nalézt na našem webu v sekci <a href='http://efektivni-altruismus.cz/jak-pomoci/'>Jak pomoci</a>.
+</dd>
 <dt>Chybí tu informace o {doplňte}.</dt>
 <dd>V tom případě se neváhejte doptat na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a nebo na Facebooku. </dd>
 </dl>
