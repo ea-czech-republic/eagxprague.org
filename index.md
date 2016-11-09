@@ -203,9 +203,9 @@ pro vegetariány i vegany.</dd>
 	Ve spolupráci s Paralelní Polis nabízíme i možnost <i>platit vstupné
 	Bitcoinem</i>.
 </dd>
-<dt>To je moc... Rád bych se zúčastnil(a), ale vstupné si nemohu dovolit.</dt>
+<dt>To je moc... Rád byste se zúčastnili, ale vstupné si nemůžete dovolit.</dt>
 <dd>Tak pak nám napište e-mail na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a určitě něco vymyslíme ;-) .</dd>
-<dt>Co konkrétně můžu udělat, když chci pomoci?</dt>
+<dt>Co konkrétně můžete udělat, když chcete pomoci?</dt>
 <dd>
 Některé způsoby máme uvedené <a href="http://efektivni-altruismus.cz/jak-pomoci">na stránkách Spolku pro efektivní altruismus</a>.
 Doporučujeme však, abyste místo darování hned se nejdříve informovali
@@ -215,9 +215,9 @@ můžeme doporučit knihu <a href="http://www.effectivealtruism.com/">Doing Good
 Máte-li zájem, rádi s Vámi také budeme spolupracovat v rámci Spolku pro
 efektivní altruismus - stačí se ozvat na <a href="mailto:efektivnialtruismus@gmail.com">efektivnialtruismus@gmail.com</a>.
 </dd>
-<dt>Na konferenci nedorazím, ale rád bych se zapojil(a) jinak</dt>
+<dt>Na konferenci nemůžete, ale rádi byste se zapojili jinak</dt>
 <dd>Pak pokračujte na web našeho spolku do sekce <a href='http://efektivni-altruismus.cz/jak-pomoci/'>Jak pomoci</a></dd>
-<dt>Nedozvěděl jsem se {doplňte}.</dt>
+<dt>Chybí tu informace o {doplňte}.</dt>
 <dd>V tom případě se neváhejte doptat na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a> a nebo na Facebooku. </dd>
 </dl>
 
