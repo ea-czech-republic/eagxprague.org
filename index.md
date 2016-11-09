@@ -121,7 +121,7 @@ racionálního myšlení nám pomůže lépe měřit a zlepšovat racionalitu, c
 schopnost nutná k efektivnímu dosahování našich osobních i morálních cílů.
 
 <div class="speaker">
-<img src="images/speakers/lucius-caviola.jpg"
+<img src="images/speakers/lucius-caviola.png"
 	style="width: 180px;" >
 <div class="desc">
 <p>

@@ -109,11 +109,11 @@ can help us to improve rationality itself, which is a necessary ability to
 reach our personal and even moral goals.
 
 <div class="speaker">
-<img src="images/speakers/lucius-caviola.jpg"
+<img src="images/speakers/lucius-caviola.png"
 	style="width: 180px;" >
 <div class="desc">
 <p>
-<i>Lucius Caviola</i> is responsible for the growth of the <a href="https://ea-foundation.org/">Effective Altruism Foundation</a> and <a href="https://sentience-politics.org/">Sentience Politics</a>. He is finishing his PhD at University of Oxford, where he conducts research on the psychology of speciesism and effective altruism, among other topics.
+<i>Lucius Caviola</i> is co-founder of the Effective Altruism Foundation (EAF) and coordinates their outreach activities. He studied psychology at the universities of Basel and Oxford and researches in cognitive and moral psychology at the Department for Experimental Psychology and the Uehiro Centre for Practical Ethics at the University of Oxford.
 </p>
 </div>
 </div>
