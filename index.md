@@ -137,14 +137,13 @@ a EA hnutí v německy mluvících zemích.
 
 ## Jak mohou světu pomoci studenti
 
-<i>Ollie Base</i> a <i>Nikita Patel</i> pracují pro
+<i>Ollie Base</i> pracuje pro
 <a href="http://www.shicschools.org/">Students for High-Impact Charity</a>,
 což je globální síť studentských klubů, jejímž cílem je zkoumání toho,
 jak mohou studenti mít co největšího prosociální dopad. Jejich program se
 zaměřuje speciálně na roli, kterou budou věda, technologie, inženýrství
 a matematika (STEM) hrát v budoucím mezinárodním vývoji.
-Ve své společné přednášce nám představí svou vizi a způsoby, jak mohou
-studenti pomoci světu.
+Ve své přednášce nám představí vizi SHIC a způsoby, jak mohou studenti pomoci světu.
 
 <div class="speaker">
 <img src="images/speakers/ollie.jpg"
@@ -158,13 +157,6 @@ program SHIC a tomuto projektu dále na dálku přispívá.
 </p>
 </div>
 </div>
-
-<i>Nikita Patel</i> nedávno ukončila studia na University of Oxford s bakalářským titulem
-z francouzského a německého jazyka. Pracuje v organizaci <a href="http://www.malariaconsortium.org/">Malaria Consortium</a>
-a dříve stážovala v <a href="https://www.givingwhatwecan.org/">Giving What We Can</a>,
-významném evaluátoru charit pro EA komunitu. Jeden rok učila v Rakousku
-a poté zahájila výukové iniciativy pro syrské uprchlíky a pro znevýhodněné
-žáky v Kampale.
 
 ## Osobní rady od zkušených efektivních altruistů
 

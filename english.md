@@ -120,8 +120,8 @@ reach our personal and even moral goals.
 
 ## How can students help the world?
 
-<i>Ollie Base</i> and <i>Nikita Patel</i> work for <a href="http://www.shicschools.org/">Students for High-Impact Charity</a>. 
-In their talk, they will present their vision and approaches, how students can help the world. 
+<i>Ollie Base</i> works for <a href="http://www.shicschools.org/">Students for High-Impact Charity</a>. 
+In his talk, he will present their vision and approaches, how students can help the world. 
 
 <div class="speaker">
 <img src="images/speakers/ollie.jpg"
@@ -132,8 +132,6 @@ In their talk, they will present their vision and approaches, how students can h
 </p>
 </div>
 </div>
-
-<i>Nikita Patel</i> recently graduated from the University of Oxford with a BA French and German and used to work as an intern at Giving What We Can. She taught in Austria for a year, before setting up education initiatives for Syrian refugees and for disadvantaged school pupils in Kampala. Currently, she works in <a href="http://www.malariaconsortium.org/">Malaria Consortium</a>.
 
 ## Personal advice from experienced effective altruists
 
