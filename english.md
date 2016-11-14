@@ -44,14 +44,26 @@ low economical productivity and systematic destruction of the environment.
 <img src="images/speakers/alix-zwane.jpg">
 <div class="desc">
 <p>
-<i>Alix Zwane</i>, an expert on global health and the CEO of <a href="http://www.globalinnovation.fund/">Global Innovation Fund</a>,
-will introduce the problem of <b>inventing and implementing effective
-interventions for helping the most needy</b>. The Global Innovations Fund
-invests into social entrepreneurship projects aiming to improve the lives and
-opportunities of millions of people in the developing world. In the past,
-Alix worked as the executive director of <a href="http://www.evidenceaction.org/">Evidence Action</a>
-and as Senior Program Officer in the global development group at the <a href="http://www.gatesfoundation.org/">Bill and Melinda Gates Foundation</a>,
-where she led strategy development for the Water, Sanitation, and Hygiene team.
+<i>Alix Zwane</i>
+has 20 years of experience working in the development and
+environment sectors as a researcher, a strategic advisor on philanthropy, a
+social entrepreneur and an investor. She is the CEO of the Global Innovation
+Fund, a $200m social first fund that invests to accelerate evidence-based
+innovations in global health and development.
+<br>
+Alix has worked at the intersection of the evidence and innovation agendas
+from a diverse set of posts. She was the first employee and Executive
+Director at Evidence Action, a non-profit that develops service delivery
+models to scale evidence-based programs. Under Alix’s leadership, Evidence
+Action catalyzed school-based deworming for hundreds of millions of
+children, and safe drinking water for millions of people in four countries.
+Alix has also advocated for evidence-based philanthropy at the Gates
+Foundation and Google.org. She designed and developed strategy to support
+new public service models that work for the poor.
+<br>
+Alix also generates evidence, and has published in Science, PNAS, the QJE
+and elsewhere. She holds a PhD in Public Policy from Harvard and is a World
+Economic Forum Young Global Leader
 </p>
 </div>
 </div>
