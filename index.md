@@ -221,7 +221,7 @@ Další informace nalézt na našem webu v sekci <a href='http://efektivni-altru
 <span style="display: block; width: 180px; height: 1px;"></span>
 <div class="desc">
 <p>
-Děkujeme panu Janu Bártovi a panu Václavu Dejčmarovi za štědrou finanční
+Děkujeme panu Janu Bartovi a panu Václavu Dejčmarovi za štědrou finanční
 podporu.
 </p>
 </div>
