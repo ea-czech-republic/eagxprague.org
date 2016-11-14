@@ -30,6 +30,18 @@
     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
 
+    <!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77119148-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
     <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -55,7 +67,7 @@ src="https://www.facebook.com/tr?id=102404170243464&ev=PageView&noscript=1"
 <ul class="menu-item">
 	<li class="home"><a href="/">{{ site.title }}</a></li>
 
-	<li><a href="https://goo.gl/forms/MdzZPwUsGf8e210P2" class="prihlaska-top" onclick="fbq('track', 'Lead');"><span class="btn btn-success">Application</span></a></li>
+	<li><a href="https://goo.gl/forms/MdzZPwUsGf8e210P2" class="prihlaska-top" onclick="fbq('track', 'Lead'); ga('send', 'application', 'opened');"><span class="btn btn-success">Application</span></a></li>
 	<li><a href="https://www.facebook.com/events/1316555661712747/" class="facebook-top"><span class="btn btn-info">Facebook</span></a></li>
 	<li><a href="{{ domain }}/#program">Program</a></li>
 	<li><a href="{{ domain }}/">Czech</a></li>
@@ -70,7 +82,7 @@ src="https://www.facebook.com/tr?id=102404170243464&ev=PageView&noscript=1"
 <ul class="menu-item">
 	<li class="home"><a href="/">{{ site.title }}</a></li>
 
-	<li><a href="https://goo.gl/forms/MdzZPwUsGf8e210P2" class="prihlaska-top" onclick="fbq('track', 'Lead');"><span class="btn btn-success">Application</span></a></li>
+	<li><a href="https://goo.gl/forms/MdzZPwUsGf8e210P2" class="prihlaska-top" onclick="fbq('track', 'Lead'); ga('send', 'application', 'opened');"><span class="btn btn-success">Application</span></a></li>
 	<li><a href="https://www.facebook.com/events/1316555661712747/" class="facebook-top"><span class="btn btn-info">Facebook</span></a></li>
 	<li><a href="{{ domain }}/#program">Program</a></li>
 	<li><a href="{{ domain }}/">Czech</a></li>
@@ -87,7 +99,7 @@ src="https://www.facebook.com/tr?id=102404170243464&ev=PageView&noscript=1"
 	<h3>When: December 10 2016 (9-20h)<span style="display: inline-block; width: 80px;"></span> Where: <a
 	   href="https://www.paralelnipolis.cz/"><img src="images/pp-black-75.png">Paralelní Polis</a></h3>
 
-	<h3><a class="btn btn-success" id="primary-reg-button" href="https://goo.gl/forms/MdzZPwUsGf8e210P2" onclick="fbq('track', 'Lead');">Application</a></h3> 
+	<h3><a class="btn btn-success" id="primary-reg-button" href="https://goo.gl/forms/MdzZPwUsGf8e210P2" onclick="fbq('track', 'Lead'); ga('send', 'application', 'opened');">Application</a></h3> 
     <h4 style="font-size: 120%; margin-top: -1em; font-weight: normal;">
     Ticket price: <b>400 CZK ($17)</b><br>
     Student and non-profit sector discount: <s>400 CZK ($17)</s>
@@ -189,7 +201,7 @@ src="https://www.facebook.com/tr?id=102404170243464&ev=PageView&noscript=1"
 		<nav role="navigation" class="menu bottom-menu">
 			<ul class="menu-item">
 				<li><a href="{{ domain }}/">EAGxPrague 2016</a></li>
-				<li><a href="https://goo.gl/forms/MdzZPwUsGf8e210P2" onclick="fbq('track', 'Lead');">Application</a></li>
+				<li><a href="https://goo.gl/forms/MdzZPwUsGf8e210P2" onclick="fbq('track', 'Lead'); ga('send', 'application', 'opened');">Application</a></li>
 				<li><a href="{{ domain }}/#program">Program</a></li>
 				<li><a href="{{ domain }}/">Czech</a></li>
 			</ul>
