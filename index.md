@@ -5,6 +5,51 @@ image:
   feature: background2.jpg
 ---
 
+
+<a name="participantguide"></a>
+
+# Pro účastníky
+
+Díky za registraci na EAGxPrague, první českou konferenci o efektivním altruismu. Jsme nadšeni že přijde tolik skvělých a nadaných lidí.
+
+# Stručně
+- Přijďte prosím v sobotu 10. prosince v 9:00 do Paralelní Polis. Konec je v 19:10.
+- Poskytneme veganský oběd i občerstvení.
+- Zkušení efektivní altruisté Lucius Caviola a Johannes Treutlein budou poskytovat individuální konzultace. Můžete s nimi probrat svoji kariéru, nápady na projekty, apod.. 
+- Kniha [http://www.effectivealtruism.com/](Doing Good Better) od Willa MacAskilla o EA se bude prodávat za symbolickou cenu 100,-. Dále, do 12. prosince je k dizpozici zdarma <a href="http://book.80000hours.org/">zde</a>.
+- S dotazy se obracejte na <a hef="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a>.
+
+# Místo
+<strong>Paralelní Polis, Dělnická 475/43, 170 00 Praha 7</strong>. (<a href="https://goo.gl/maps/xgPTMmTrFiD2">Google Maps</a>)
+
+# Program
+
+- 9:00 - Registrace. Prosím <em>doražte včas</em>.
+- 9:30 - Uvítání. Úvod do efektivního altruismu (Aleš Flídr, bývalý prezident Harvard Effective Altruism; česky)
+- 10:30 - Career selection (David Goldberg, Zakladatel Founders Forum for Good; anglicky)
+- 11:15 - Přestávka na kávu
+- 11:45 - Development aid (Alix Zwane, CEO Global Innovations Fund; anglicky)
+- 12:30 - Oběd
+- 14:00 - Rationality (Lucius Caviola, spoluzakladatel EA Foundation; anglicky)
+- 15:00 - Přestávka na kávu
+- 15:30 - Morální problémy superhrdinů -- experimentální a filosofická perspektiva (Robin Kopecký, Přírodovědecká fakulta Univerzity Karlovy; česky)
+- 16:00 - Students for High-Impact Charity (Ollie Base, bývalý prezident EA Society Warwick, dobrovolník v SHIC; anglicky)
+- 16:45 - Přestávka na kávu
+- 17:15 - Animal welfare (Pablo Stafforini, výzkumník v Special Projects Team v Centre for Effective Altruism; anglicky)
+- 18:00 - Far future outcomes with a suffering-minimization approach (Johannes Treutlein, Výzkumník v EA Foundation a Foundational Research Institute; anglicky)
+- 18:45 - EA v Česku: cíle a plány na 2017 (Český spolek pro efektivní altruismus; česky)
+- 19:05 - Uzavření, networking
+
+Po konferenci budeme diskutovat nad kafem či pivkem v Bitcoin Café v přízemí :)
+
+# Kontaktní informace
+Budeme vděční za kladnou i zápornou zpětnou vazbu na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a>.
+
+<em>Těšíme se brzké setkání.</em>
+
+-- Tým EAGxPrague
+
+
 <a name="program"></a>
 <br>
 

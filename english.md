@@ -6,6 +6,55 @@ image:
 ---
 
 
+<a name="participantguide"></a>
+
+# Participant guide -- What you need to know
+
+Thank you for registering for EAGxPrague, Prague’s first effective altruism-themed conference! We’re very happy to have so many talented and inspiring people coming, and we’re hoping you’ll have a great time.
+
+# Summary
+- Arrive to Paralelní Polis at 9 am on Saturday, December 10. The conference ends at 7:10 pm.
+- If you have a student or non-profit ticket, please bring some form of student ID or your business card if possible. 
+- Some talks will be in English, some in Czech. If you don’t speak Czech, we invite you to chat with us downstairs in the Bitcoin Café during talks in Czech.
+- We will provide catering and lunch with vegan options.
+- Lucius Caviola and Johannes Treutlein, both highly experienced EAs, will be available for personal EA advice sessions. You can ask them about career advice, ideas for your own projects, or anything else EA-related. Grab your slot <a href="http://tiny.cc/eaadviceprague">here</a>. 
+- We’ll be offering discounted copies of the EA career advice book [http://www.effectivealtruism.com/](Doing Good Better) by Will MacAskill. Until December 12, you can also get a <em>free</em> digital copy <a href="http://book.80000hours.org/">here</a>.
+- Contact prague@eaglobalx.org with questions.
+
+# Where
+The conference takes place at <strong>Paralelní Polis, Dělnická 475/43, 170 00 Praha 7</strong>. (<a href="https://goo.gl/maps/xgPTMmTrFiD2">Google Maps</a>)
+It’s close to Prague city centre and we recommend using mass transport to get there.
+
+# Schedule
+
+- 9:00 - Registration. Please <em>arrive sooner rather than later</em>. If you have a student or non-profit ticket, please bring some form of student ID or a business card if possible.
+- 9:30 - Welcome speech, Introduction to Effective Altruism (Aleš Flídr, former co-president of Harvard Effective Altruism; Czech)
+- 10:30 - Career selection (David Goldberg, founder of Founders Forum for Good; English)
+- 11:15 - Coffee break
+- 11:45 - Development aid (Alix Zwane, CEO of Global Innovations Fund; English)
+- 12:30 - Lunch
+- 14:00 - Rationality (Lucius Caviola, co-founder of EA Foundation; English)
+- 15:00 - Coffee break
+- 15:30 - Moral problems of superheroes - the experimental and philosophical perspective (Robin Kopecký, researcher at Faculty of Science of Charles University; Czech)
+- 16:00 - Students for High-Impact Charity (Ollie Base, former president of EA Society Warwick, SHIC volunteer; English)
+- 16:45 - Coffee break
+- 17:15 - Animal welfare (Pablo Stafforini, research at Special Projects Team of Centre for Effective Altruism; English)
+- 18:00 - Far future outcomes with a suffering-minimization approach (Johannes Treutlein, Growth at EA Foundation and Foundational Research Institute; English)
+- 18:45 - EA in Czech Republic: Goals and plans for 2017 (Czech Association for Effective Altruism; Czech)
+- 19:05 - Finishing remarks, networking
+
+
+After the conference, we’ll be downstairs at the Bitcoin Café for informal discussion and coffee or beer :)
+
+# Contact Information
+Please send any questions or feedback both positive or negative to <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a>.
+
+<em>See you at the conference!</em>
+
+-- EAGxPrague Team
+
+
+
 <a name="program"></a>
 <br>
 
