@@ -30,19 +30,18 @@ It’s close to Prague city centre and we recommend using mass transport to get 
 - 9:00 - Registration. Please <em>arrive sooner rather than later</em>. If you have a student or non-profit ticket, please bring some form of student ID or a business card if possible.
 - 9:30 - Welcome speech, Introduction to Effective Altruism (Aleš Flídr, former co-president of Harvard Effective Altruism; Czech)
 - 10:30 - Career selection (David Goldberg, founder of Founders Forum for Good; English)
-- 11:15 - Coffee break
+- 11:15 - Coffee and tea break
 - 11:45 - Development aid (Alix Zwane, CEO of Global Innovations Fund; English)
 - 12:30 - Lunch
 - 14:00 - Rationality (Lucius Caviola, co-founder of EA Foundation; English)
-- 15:00 - Coffee break
+- 15:00 - Coffee and tea break
 - 15:30 - Moral problems of superheroes - the experimental and philosophical perspective (Robin Kopecký, researcher at Faculty of Science of Charles University; Czech)
 - 16:00 - Students for High-Impact Charity (Ollie Base, former president of EA Society Warwick, SHIC volunteer; English)
-- 16:45 - Coffee break
+- 16:45 - Coffee and tea break
 - 17:15 - Animal welfare (Pablo Stafforini, research at Special Projects Team of Centre for Effective Altruism; English)
 - 18:00 - Far future outcomes with a suffering-minimization approach (Johannes Treutlein, Growth at EA Foundation and Foundational Research Institute; English)
 - 18:45 - EA in Czech Republic: Goals and plans for 2017 (Czech Association for Effective Altruism; Czech)
 - 19:05 - Finishing remarks, networking
-
 
 After the conference, we’ll be downstairs at the Bitcoin Café for informal discussion and coffee or beer :)
 

@@ -27,20 +27,20 @@ Díky za registraci na EAGxPrague, první českou konferenci o efektivním altru
 - 9:00 - Registrace. Prosím <em>doražte včas</em>.
 - 9:30 - Uvítání. Úvod do efektivního altruismu (Aleš Flídr, bývalý prezident Harvard Effective Altruism; česky)
 - 10:30 - Career selection (David Goldberg, Zakladatel Founders Forum for Good; anglicky)
-- 11:15 - Přestávka na kávu
+- 11:15 - Přestávka na kávu a čaj
 - 11:45 - Development aid (Alix Zwane, CEO Global Innovations Fund; anglicky)
 - 12:30 - Oběd
 - 14:00 - Rationality (Lucius Caviola, spoluzakladatel EA Foundation; anglicky)
-- 15:00 - Přestávka na kávu
+- 15:00 - Přestávka na kávu a čaj
 - 15:30 - Morální problémy superhrdinů -- experimentální a filosofická perspektiva (Robin Kopecký, Přírodovědecká fakulta Univerzity Karlovy; česky)
 - 16:00 - Students for High-Impact Charity (Ollie Base, bývalý prezident EA Society Warwick, dobrovolník v SHIC; anglicky)
-- 16:45 - Přestávka na kávu
+- 16:45 - Přestávka na kávu a čaj
 - 17:15 - Animal welfare (Pablo Stafforini, výzkumník v Special Projects Team v Centre for Effective Altruism; anglicky)
 - 18:00 - Far future outcomes with a suffering-minimization approach (Johannes Treutlein, Výzkumník v EA Foundation a Foundational Research Institute; anglicky)
 - 18:45 - EA v Česku: cíle a plány na 2017 (Český spolek pro efektivní altruismus; česky)
 - 19:05 - Uzavření, networking
 
-Po konferenci budeme diskutovat nad kafem či pivkem v Bitcoin Café v přízemí :)
+Po konferenci budeme diskutovat nad kávou či pivkem v Bitcoin Café v přízemí :)
 
 # Kontaktní informace
 Budeme vděční za kladnou i zápornou zpětnou vazbu na <a href="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a>.
