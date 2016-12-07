@@ -58,6 +58,17 @@ src="https://www.facebook.com/tr?id=102404170243464&ev=PageView&noscript=1"
 /></noscript>
 <!-- DO NOT MODIFY -->
 <!-- End Facebook Pixel Code -->
+
+<!-- Fb js SDK: for like button -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
   </head>
 
   <body>
@@ -105,6 +116,7 @@ src="https://www.facebook.com/tr?id=102404170243464&ev=PageView&noscript=1"
     <h4 style="font-size: 120%; margin-top: -1em; font-weight: normal;">
 		Přihlášky byly uzavřeny 26. listopadu.
 	</h4>
+    <div class="fb-like" data-href="http://www.eagxprague.org/" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
