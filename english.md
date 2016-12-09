@@ -69,16 +69,10 @@ But why is effective altruism a good idea? What does it mean, to actually <i>be
 an effective altruist</i>?
 
 <div class="speaker">
-<img src="images/speakers/radim.jpg">
+<img src="images/speakers/ales.jpg">
 <div class="desc">
 <p>
-<i>Radim Lacina</i>, a recipient of the prestigious Bakala stipend, will
-present an introductory talk in Czech with a description of effective altruism
-and of the basic philosophical assumptions and arguments for it.
-Radim studies Philosophy and Linguistics at St Hugh's College at the University
-of Oxford. Radim has been engaged in the Effective Altruism movement since high
-school and co-founded the Czech Association for Effective Altruism.
-</p>
+<i>Aleš Flídr</i> is an Economics student at Harvard University. In his second year he was a co-president of the Harvard Effective Altruism Club. He worked as an intern in the Centre for Effective Altruism in Oxford. His interests include behavioural economics and philosophy.</p>
 </div>
 </div>
 
@@ -190,6 +184,18 @@ In his talk, he will present their vision and approaches, how students can help 
 <div class="desc">
 <p>
 <i>Ollie Base</i> is a third year Philosophy with Psychology student, currently studying in Cologne, Germany. Last year, he was president of Effective Altruism Society Warwick and is currently founding a chapter in Cologne. Ollie was on the team which compiled the SHIC curriculum and continues to volunteer remotely on the subject
+</p>
+</div>
+</div>
+
+## Moral issues of superheroes – experimental and philosophic view
+
+<div class="speaker">
+<img src="images/speakers/robin.jpg"
+    style="width: 180px;" >
+<div class="desc">
+<p>
+<i>Robin</i> is a PhD student and a researcher at the Faculty of Natural Sciences of Charles University in Prague. He previously studied both philosophy and evolutionary biology and his research interests are moral judgements, experimental philosophy and evolutionary psychology
 </p>
 </div>
 </div>

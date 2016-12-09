@@ -74,11 +74,7 @@ být <i>efektivní altruista</i>?
 <div class="desc">
 <p>
 Úvodní přednášku v češtině s popisem této filosofie a popisem základních
-předpokladů a argumentů nabídne <i>Radim Lacina</i>. Radim získal prestižní
-Bakalovo stipendium a nyní studuje filosofii a lingvistiku na St Hugh's College
-na University of Oxford. Již od střední školy se angažoval v efektivní charitě
-a je spoluzakladatelem Spolku pro efektivní altruismus, první EA organizace
-v České republice.
+předpokladů a argumentů nabídne <i>Aleš Flídr</i>. Aleš studuje ekonomii na Harvardově Univerzitě. Ve druhém ročníku spolupředsedal místnímu spolku efektivních altruistů (Harvard Effective Altruism Club). Pracoval též jako stážista v Centru pro efektivní altruismus v Oxfordu. Jeho zájmy jsou behaviorální ekonomie a filosofie.
 </p>
 </div>
 </div>
@@ -202,6 +198,19 @@ program SHIC a tomuto projektu dále na dálku přispívá.
 </p>
 </div>
 </div>
+
+## Morální problémy superhrdinů -- experimentáální a filosofická perspektiva
+
+<div class="speaker">
+<img src="images/speakers/robin.jpg"
+    style="width: 180px;" >
+<div class="desc">
+<p>
+<i>Robin</i> je doktorandem a výzkumníkem na Přírodovědecké fakultě Univerzity Karlovy.  Předtím studoval filosofii a evoluční biologii. Jeho vědecké zájmy se zaměřují na morální soudy, experimentální filosofii a evoluční biologii.
+</p>
+</div>
+</div>
+
 
 ## Osobní rady od zkušených efektivních altruistů
 
