@@ -35,7 +35,7 @@ It’s close to Prague city centre and we recommend using mass transport to get 
 - 12:30 - Lunch
 - 14:00 - Rationality (Lucius Caviola, co-founder of EA Foundation; English)
 - 15:00 - Coffee break
-- 15:30 - Moral problems of superheroes - the experimental and philosophical perspective (Robin Kopecký, researcher at Faculty of Science of Charles University; Czech)
+- 15:30 - Moral issues of superheroes -- experimental and philosophic view (Robin Kopecký, researcher at Faculty of Science of Charles University; English)
 - 16:00 - Students for High-Impact Charity (Ollie Base, former president of EA Society Warwick, SHIC volunteer; English)
 - 16:45 - Coffee break
 - 17:15 - Animal welfare (Pablo Stafforini, research at Special Projects Team of Centre for Effective Altruism; English)
