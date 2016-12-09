@@ -195,7 +195,7 @@ In his talk, he will present their vision and approaches, how students can help 
     style="width: 180px;" >
 <div class="desc">
 <p>
-<i>Robin</i> is a PhD student and a researcher at the Faculty of Natural Sciences of Charles University in Prague. He previously studied both philosophy and evolutionary biology and his research interests are moral judgements, experimental philosophy and evolutionary psychology
+<i>Robin Kopecký</i> is a PhD student and a researcher at the Faculty of Natural Sciences of Charles University in Prague. He previously studied both philosophy and evolutionary biology and his research interests are moral judgements, experimental philosophy and evolutionary psychology
 </p>
 </div>
 </div>

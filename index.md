@@ -206,7 +206,7 @@ program SHIC a tomuto projektu dále na dálku přispívá.
     style="width: 180px;" >
 <div class="desc">
 <p>
-<i>Robin</i> je doktorandem a výzkumníkem na Přírodovědecké fakultě Univerzity Karlovy.  Předtím studoval filosofii a evoluční biologii. Jeho vědecké zájmy se zaměřují na morální soudy, experimentální filosofii a evoluční biologii.
+<i>Robin Kopecký</i> je doktorand a výzkumník na Přírodovědecké fakultě Univerzity Karlovy.  Předtím studoval filosofii a evoluční biologii. Jeho vědecké zájmy se zaměřují na morální soudy, experimentální filosofii a evoluční biologii.
 </p>
 </div>
 </div>
