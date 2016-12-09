@@ -32,7 +32,7 @@ Díky za registraci na EAGxPrague, první českou konferenci o efektivním altru
 - 12:30 - Oběd
 - 14:00 - Rationality (Lucius Caviola, spoluzakladatel EA Foundation; anglicky)
 - 15:00 - Přestávka na kávu
-- 15:30 - Morální problémy superhrdinů -- experimentální a filosofická perspektiva (Robin Kopecký, Přírodovědecká fakulta Univerzity Karlovy; česky)
+- 15:30 - Moral issues of superheroes -- experimental and philosophic view (Robin Kopecký, Přírodovědecká fakulta Univerzity Karlovy; anglicky)
 - 16:00 - Students for High-Impact Charity (Ollie Base, bývalý prezident EA Society Warwick, dobrovolník v SHIC; anglicky)
 - 16:45 - Přestávka na kávu
 - 17:15 - Animal welfare (Pablo Stafforini, výzkumník v Special Projects Team v Centre for Effective Altruism; anglicky)
