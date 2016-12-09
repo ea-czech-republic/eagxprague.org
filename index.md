@@ -70,7 +70,7 @@ Proč je ale vlastně efektivní altruismus dobrý nápad? A co to v praxi zname
 být <i>efektivní altruista</i>?
 
 <div class="speaker">
-<img src="images/speakers/radim.jpg">
+<img src="images/speakers/ales.jpg">
 <div class="desc">
 <p>
 Úvodní přednášku v češtině s popisem této filosofie a popisem základních
