@@ -199,7 +199,7 @@ program SHIC a tomuto projektu dále na dálku přispívá.
 </div>
 </div>
 
-## Morální problémy superhrdinů -- experimentáální a filosofická perspektiva
+## Morální problémy superhrdinů -- experimentální a filosofická perspektiva
 
 <div class="speaker">
 <img src="images/speakers/robin.jpg"
