@@ -5,25 +5,9 @@ image:
   feature: background2.jpg
 ---
 
-
-<a name="participantguide"></a>
-
-# Pro účastníky
-
-Díky za registraci na EAGxPrague, první českou konferenci o efektivním altruismu. Jsme nadšeni že přijde tolik skvělých a nadaných lidí.
-
-# Stručně
-- Přijďte prosím v sobotu 10. prosince v 9:00 do Paralelní Polis. Konec je v 19:10.
-- Poskytneme veganský oběd i občerstvení.
-- Zkušení efektivní altruisté Lucius Caviola a Johannes Treutlein budou poskytovat individuální konzultace. Můžete s nimi probrat svoji kariéru, nápady na projekty, apod.. 
-- Kniha [http://www.effectivealtruism.com/](Doing Good Better) od Willa MacAskilla o EA se bude prodávat za symbolickou cenu 100,-. Dále, do 12. prosince je k dizpozici zdarma <a href="http://book.80000hours.org/">zde</a>.
-- S dotazy se obracejte na <a hef="mailto:prague@eaglobalx.org">prague@eaglobalx.org</a>.
-
-# Místo
-<strong>Paralelní Polis, Dělnická 475/43, 170 00 Praha 7</strong>. (<a href="https://goo.gl/maps/xgPTMmTrFiD2">Google Maps</a>)
+<a name="program"></a>
 
 # Program
-
 - 9:00 - Registrace. Prosím <em>doražte včas</em>.
 - 9:30 - Uvítání. Úvod do efektivního altruismu (Aleš Flídr, bývalý prezident Harvard Effective Altruism; česky)
 - 10:30 - Career selection (David Goldberg, Zakladatel Founders Forum for Good; anglicky)
@@ -50,7 +34,6 @@ Budeme vděční za kladnou i zápornou zpětnou vazbu na <a href="mailto:prague
 -- Tým EAGxPrague
 
 
-<a name="program"></a>
 <br>
 
 # Proč EAGxPrague?
