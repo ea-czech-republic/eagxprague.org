@@ -6,24 +6,7 @@ image:
 ---
 
 
-<a name="participantguide"></a>
-
-# Participant guide -- What you need to know
-
-Thank you for registering for EAGxPrague, Prague’s first effective altruism-themed conference! We’re very happy to have so many talented and inspiring people coming, and we’re hoping you’ll have a great time.
-
-# Summary
-- Arrive to Paralelní Polis at 9 am on Saturday, December 10. The conference ends at 7:10 pm.
-- If you have a student or non-profit ticket, please bring some form of student ID or your business card if possible. 
-- Some talks will be in English, some in Czech. If you don’t speak Czech, we invite you to chat with us downstairs in the Bitcoin Café during talks in Czech.
-- We will provide catering and lunch with vegan options.
-- Lucius Caviola and Johannes Treutlein, both highly experienced EAs, will be available for personal EA advice sessions. You can ask them about career advice, ideas for your own projects, or anything else EA-related. Grab your slot <a href="http://tiny.cc/eaadviceprague">here</a>. 
-- We’ll be offering discounted copies of the EA career advice book [http://www.effectivealtruism.com/](Doing Good Better) by Will MacAskill. Until December 12, you can also get a <em>free</em> digital copy <a href="http://book.80000hours.org/">here</a>.
-- Contact prague@eaglobalx.org with questions.
-
-# Where
-The conference takes place at <strong>Paralelní Polis, Dělnická 475/43, 170 00 Praha 7</strong>. (<a href="https://goo.gl/maps/xgPTMmTrFiD2">Google Maps</a>)
-It’s close to Prague city centre and we recommend using mass transport to get there.
+<a name="program"></a>
 
 # Schedule
 
@@ -53,9 +36,6 @@ Please send any questions or feedback both positive or negative to <a href="mail
 
 -- EAGxPrague Team
 
-
-
-<a name="program"></a>
 <br>
 
 # Program
